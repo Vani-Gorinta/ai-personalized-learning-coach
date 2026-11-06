@@ -241,19 +241,23 @@ The application has also been manually tested for major workflows, including pro
 - Additional AI-powered learning capabilities.
 
 ## 📸 Application Screenshots
-### Dashboard
+### 1. Dashboard
+![AI Learn Dashboard](screenshots/Dashboard.png)
 
-![AI Learn Dashboard](screenshots/dashboard.png)
+### 2. Learning Path
+![Learning Path](screenshots/Learning%20Path.png)
 
+### 3. Practice Quiz
+![Practice Quiz](screenshots/Practice%20Quiz.png)
 
-Suggested screenshots:
+### 4. AI Tutor
+![AI Tutor](screenshots/AI%20tutor.png)
 
-1. Dashboard
-2. Learning Path
-3. Practice Quiz
-4. AI Tutor
-5. Analytics
-6. Content Library
+### 5. Analytics
+![Analytics](screenshots/Analytics.png)
+
+### 6. Content Library
+![Content Library](screenshots/Content%20Library.png)
 
 Example Markdown syntax:
 
