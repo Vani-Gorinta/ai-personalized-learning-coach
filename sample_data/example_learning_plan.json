@@ -1,0 +1,42 @@
+{
+  "subject": "Python Programming",
+  "learning_goal": "Learn Python fundamentals",
+  "duration": "7 days",
+  "learning_plan": [
+    {
+      "day": 1,
+      "topic": "Introduction to Python",
+      "task": "Learn Python basics and syntax"
+    },
+    {
+      "day": 2,
+      "topic": "Variables and Data Types",
+      "task": "Practice variables and data types"
+    },
+    {
+      "day": 3,
+      "topic": "Conditional Statements",
+      "task": "Practice if, elif and else"
+    },
+    {
+      "day": 4,
+      "topic": "Loops",
+      "task": "Practice for and while loops"
+    },
+    {
+      "day": 5,
+      "topic": "Functions",
+      "task": "Create and use Python functions"
+    },
+    {
+      "day": 6,
+      "topic": "Lists and Dictionaries",
+      "task": "Practice Python collections"
+    },
+    {
+      "day": 7,
+      "topic": "Revision and Practice",
+      "task": "Complete a small Python exercise"
+    }
+  ]
+}
