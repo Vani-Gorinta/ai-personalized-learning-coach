@@ -250,14 +250,14 @@ The application has also been manually tested for major workflows, including pro
 ### 3. Practice Quiz
 ![Practice Quiz](screenshots/Practice%20Quiz.png)
 
-### 4. AI Tutor
+### 4. Content Library
+![Content Library](screenshots/Content%20Library.png)
+
+### 5. AI Tutor
 ![AI Tutor](screenshots/AI%20tutor.png)
 
-### 5. Analytics
+### 6. Analytics
 ![Analytics](screenshots/Analytics.png)
-
-### 6. Content Library
-![Content Library](screenshots/Content%20Library.png)
 
 Example Markdown syntax:
 
