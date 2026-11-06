@@ -3,3 +3,4 @@ __pycache__/
 .env
 *.pyc
 .streamlit/secrets.toml
+learning_coach.db
