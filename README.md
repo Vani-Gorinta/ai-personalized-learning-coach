@@ -241,8 +241,10 @@ The application has also been manually tested for major workflows, including pro
 - Additional AI-powered learning capabilities.
 
 ## 📸 Application Screenshots
+### Dashboard
 
-Screenshots of the application can be added here to demonstrate its interface and functionality.
+![AI Learn Dashboard](screenshots/dashboard.png)
+
 
 Suggested screenshots:
 

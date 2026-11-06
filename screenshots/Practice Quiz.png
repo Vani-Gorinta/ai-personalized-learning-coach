@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:8501/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;%F0%9F%A7%A0&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="preload" href="http://localhost:8501/static/media/SourceSansVF-Upright.ttf.BsWL4Kly.woff2" as="font" type="font/woff2" crossorigin="">
+
+    <title>AI Learn | Personalized Learning Coach</title>
+
+    <!-- initialize window.prerenderReady to false and then set to true in React app when app is ready for indexing -->
+    <script>
+      window.prerenderReady = false
+    </script>
+    <script type="module" crossorigin="" src="./practice quiz_files/index.Dlja0TUX.js.download"></script>
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/rolldown-runtime.C0FnF6B9.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-is-prop-valid.esm.CuYlOKOk.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-styled.browser.esm.BlkDsJXZ.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/loglevel.isY9rJjs.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/react-dom.CbzydqoA.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-react.browser.esm.BYrexG3N.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/protobuf.B-gz2osh.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/opacities.BBavuN52.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/types.cZoyy9Y-.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isSymbol.CmW3dkoN.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/toString.tRXNBxtF.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isArrayLike.Crw2F5li.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_isIterateeCall.BUStsXAd.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isArrayLikeObject.B3Zf3PTL.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/merge.Dv47mehx.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseFlatten.IOj0lc7G.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/last.DfjdtCRp.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/utils.4-V1Nt9d.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/UriUtil.Buqblitv.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCrossOriginAttribute.CohH4OEQ.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useEmotionTheme.5peYXGK6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/styled-components.BdEMXxou.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useFloatingOverlay.BgVSLB_x.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Tooltip.pZ0H0kkf.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.DaUKNU-6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.B_BqPfc4.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.CMmWlZtt.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/space-separated-tokens.BqhiSyze.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ErrorElement.B3JXfGpT.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/preload-helper.BaNbYf_w.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/StreamlitMarkdown.Bazu52t_.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseIsEqual.sdZCjgvS.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseProperty.BV6HSwpm.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseEach.PLhpSRgM.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/utils.DUTo-bFv.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/FlexContext.BVLhnEIa.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Icon.BjxRA3oA.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/DynamicIcon.CpHr1HJ2.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useDescription.C7H7s2zg.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Text.BGYNDAPw.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/shim.BbyJgaa_.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCollection.CioWCs5V.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useLabel.CMDB9Bko.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/LiveAnnouncer.CJitgdIC.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/NumberFormatter.CHYrjPj-.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useNumberFormatter.CF9pVEB6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ProgressBar.DD0W8Jz8.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/BaseButton.OzdXpw_T.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/FormClearHelper.Bf_L1jWh.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useTimeout.DgWF0Nme.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useResizeObserver.3kyCQ1g6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/index.esm.B2Ayivoz.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Check.esm.C0_5iXfI.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ContentCopy.esm.BgWmYHP7.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Toolbar.BIGxuHA9.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCopyToClipboard.CV8qDB_k.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useRequiredContext.DBsQavvD.js">
+    <link rel="stylesheet" crossorigin="" href="./practice quiz_files/index.DzL0gylu.css">
+  <style data-emotion="st-emotion-cache-global" data-s=""></style><style data-emotion="st-emotion-cache" data-s=""></style><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Button.BNvfR8OZ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/rehype-raw.C0zIPPaY.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/hastscript.HMW3Cnwp.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/web-namespaces.BxZ_GhEx.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/remark-emoji.B0mKIVIF.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/lib.Dd69Svmo.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Metric.DMz1h4un.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/styled-components.JuRIuEWs.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabelHelpIconInline.DdQfVwea.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/formatNumber.CfJM5WTJ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/numbro.DQcaoYTv.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/sprintfjs.F03_KGhA.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/styled-components.BGit4FcC.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/linear.D5hxhwzn.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/defaultLocale.CNPGWpMu.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/init.ZlXS9mIS.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/string.6Z3wlNKv.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/value.BWwTSlkG.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/ordinal.BefGibR5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/time._HF-TomV.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/range.EplFIxc7.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/cubic.yzfkjm1T.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/threshold.eoi7MLsD.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/colors.Cg5Vh3br.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/treemap.BfjIY-m6.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/TextInput.BxDbpba5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Input.fxLfgd0d.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/requiredField.D-qdHmR1.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Autocomplete.kV4wwzw9.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useFormValidation.B2tszs_w.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useTextField.BYnsszFh.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useField.CRclxxMJ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useFormReset.CGu8nFbN.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/ErrorOutline.esm.CS4C5u_b.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Cancel.esm.DeTJ68K0.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabel.DZjDVnAx.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabelHelpIcon.BgW9s-G5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useDebouncedCallback.DmVKnuOW.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useBasicWidgetState.QdjeajhU.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/InputInstructions.DhFz6BY9.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/inputUtils.CD44xxT-.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useUpdateUiValue.Bnm2do6r.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/TextArea.TYysap43.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useTextInputAutoExpand.bb8b_LpZ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Radio.CR-M-CaH.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useSlot.66mDqY92.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/NumberInput.CVHXW_KR.js"></head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"><div class="withScreencast" data-testid="stScreencast"><div class="stApp stAppEmbeddingId-to388qyc9bel streamlit-wide st-emotion-cache-smtb2k e1vju3fw0" data-testid="stApp" data-test-script-state="notRunning" data-test-connection-state="CONNECTED"><div class="stAppViewContainer appview-container st-emotion-cache-1yiq2ps e87roqt0" data-testid="stAppViewContainer" data-layout="wide"><a href="http://localhost:8501/#stMain" data-testid="stSkipToContent" class="st-emotion-cache-xh0dmh e87roqt1">Skip to main content</a><section class="stSidebar st-emotion-cache-1y2bhgf e15rayve0" data-testid="stSidebar" aria-label="Sidebar" data-collapsed="false" id="stSidebar" style="position: relative; user-select: auto; width: 300px; height: auto; box-sizing: border-box; flex-shrink: 0;"><div data-testid="stSidebarContent" class="st-emotion-cache-155jwzh e15rayve2"><div data-testid="stSidebarHeader" class="st-emotion-cache-10p9htt e15rayve4"><div data-testid="stLogoSpacer" class="st-emotion-cache-11ukie e15rayve9"></div><div data-testid="stSidebarCollapseButton" class="st-emotion-cache-154i6yo e15rayve10"><button kind="headerNoPadding" data-testid="stBaseButton-headerNoPadding" aria-label="Collapse sidebar" aria-expanded="true" aria-controls="stSidebar" class="st-emotion-cache-6buas8 e1w3uk7w15"><span color="rgba(248, 250, 252, 0.6)" class="st-emotion-cache-2x5h05 e1fmktau2"><span color="rgba(248, 250, 252, 0.6)" data-testid="stIconMaterial" aria-hidden="true" translate="no" class="st-emotion-cache-4006kx e1vmumty0">keyboard_double_arrow_left</span></span></button></div></div><div data-testid="stSidebarUserContent" class="st-emotion-cache-1r1cntt e15rayve1"><div class="st-emotion-cache-8atqhb e87roqt6"><div direction="column" height="auto" class="stVerticalBlock st-emotion-cache-1ndxyp5 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><div class="brand-container">
+    <div class="brand-logo">
+        
+        🧠
+    </div>
+    <div class="brand-text">
+        <div class="brand-name">AI Learn</div>
+        <div class="brand-subtitle">YOUR PERSONAL AI COACH</div>
+    </div>
+</div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-key-nav_Dashboard st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🏠  Dashboard</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Learning_Path st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📚  Learning Path</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Lesson_Progress st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🎯  Lesson Progress</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Study_Time st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>⏱️  Study Time</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Practice_Quiz st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="primary" data-testid="stBaseButton-primary" class="st-emotion-cache-1e6opsz e1w3uk7w1"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>✍️  Practice Quiz</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Content_Library st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📖  Content Library</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_AI_Tutor st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🤖  AI Tutor</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Analytics st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📊  Analytics</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Settings st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>⚙️  Settings</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>⚡ <strong>Smart Mode</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>AI-powered learning</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>📈 <strong>Learning Streak</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><h2 style="color: rgb(167, 139, 250); margin-bottom: 0px;"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3">
+    1 day
+</span></h2></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>Keep learning every day!</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>👋 <strong>Welcome back!</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>Ready to learn?</p></div></div></div></div></div></div></div></div><div><div style="position: absolute; user-select: none; width: 8px; height: 100%; top: 0px; cursor: col-resize; right: -6px;"><div data-testid="stSidebarResizeHandle" class="st-emotion-cache-151n13i e15rayve3"></div></div></div></section><div class="st-emotion-cache-6px8kg e87roqt11"><header class="stAppHeader st-emotion-cache-1jj3fbf e149qiiz1" data-testid="stHeader"><div class="stAppToolbar st-emotion-cache-14vh5up e149qiiz2" data-testid="stToolbar"><div class="st-emotion-cache-1j22a0y e149qiiz4"><div class="st-emotion-cache-jma0kd e149qiiz5"></div><div class="st-emotion-cache-scp8yw e149qiiz6"><div class="stToolbarActions st-emotion-cache-1p1m4ay epm40z22" data-testid="stToolbarActions"></div><div class="stAppDeployButton" data-testid="stAppDeployButton"><button kind="header" data-testid="stBaseButton-header" class="st-emotion-cache-1x5n7op e1w3uk7w14"><div class="st-emotion-cache-1wbqy5l e19wr9s00"><span>Deploy</span></div></button></div><span id="MainMenu" class="stMainMenu st-emotion-cache-czk5ss el5zzf54" data-testid="stMainMenu"><button kind="headerNoPadding" data-testid="stMainMenuButton" aria-label="Main menu" aria-haspopup="menu" aria-expanded="false" class="st-emotion-cache-6buas8 e1w3uk7w15"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="e1fmktau1 st-emotion-cache-nsoqg8 ex0cdmw0"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></button></span></div></div></div></header><main id="stMain" tabindex="0" class="stMain st-emotion-cache-170etyg e87roqt2" data-testid="stMain"><div class="stMainBlockContainer block-container st-emotion-cache-lhe5w4 e87roqt5" data-testid="stMainBlockContainer"><div direction="column" height="auto" class="stVerticalBlock st-emotion-cache-1ndxyp5 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><style>
+
+/* ================================
+   COSMIC VIOLET AI THEME
+================================ */
+
+/* Main application */
+.stApp {
+    background: linear-gradient(135deg, #080D1B 0%, #10172A 55%, #11102B 100%);
+    color: #F8FAFC;
+}
+
+/* Main content */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    max-width: 1450px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #11132B 0%, #171433 100%);
+    border-right: 1px solid #29264D;
+}
+
+[data-testid="stSidebar"] > div:first-child {
+    padding-top: 1.5rem;
+}
+
+/* Sidebar text */
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] span {
+    color: #D8D9F0;
+}
+
+/* Branding */
+.brand {
+    font-size: 27px;
+    font-weight: 800;
+    color: #B69CFF;
+}
+
+.brand-subtitle {
+    font-size: 13px;
+    color: #A5A4C5;
+}
+
+/* Welcome section */
+.welcome-title {
+    font-size: 32px;
+    font-weight: 750;
+    color: #FFFFFF;
+}
+
+.welcome-subtitle {
+    color: #A5B4CF;
+    font-size: 16px;
+}
+
+.date-text {
+    text-align: right;
+    color: #A5B4CF;
+    font-size: 13px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    color: #F8FAFC !important;
+}
+
+/* Paragraphs and labels */
+.stMarkdown p,
+.stMarkdown li,
+.stMarkdown label {
+    color: #D5DCEF;
+}
+
+/* Cards and containers */
+[data-testid="stVerticalBlockBorderWrapper"] {
+    background: #151E33;
+    border: 1px solid #303B59;
+    border-radius: 14px;
+}
+
+/* Buttons */
+/* Premium Purple Buttons */
+.stButton > button,
+.stFormSubmitButton > button {
+    background: linear-gradient(135deg, #7C3AED, #9333EA) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    min-height: 44px !important;
+    font-weight: 700 !important;
+    width: 100% !important;
+    opacity: 1 !important;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover,
+.stFormSubmitButton > button:hover {
+    background: linear-gradient(135deg, #9333EA, #6D28D9) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #C4B5FD !important;
+    box-shadow: 0 0 18px rgba(139, 92, 246, 0.35);
+}
+
+/* Input fields */
+.stTextInput input,
+.stTextArea textarea,
+.stNumberInput input {
+    background-color: #111A2D !important;
+    color: #F8FAFC !important;
+    border: 1px solid #384665 !important;
+    border-radius: 9px !important;
+}
+
+.stSelectbox div[data-baseweb="select"] > div {
+    background-color: #111A2D;
+    color: #F8FAFC;
+    border-color: #384665;
+}
+
+/* Radio buttons and checkboxes */
+.stRadio label,
+.stCheckbox label {
+    color: #D5DCEF !important;
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+    background: #151E33;
+    border: 1px solid #303B59;
+    border-radius: 13px;
+    padding: 18px;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #A5B4CF !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #FFFFFF !important;
+}
+
+/* Alerts */
+.stAlert {
+    border-radius: 12px;
+}
+
+/* Dataframes and tables */
+[data-testid="stDataFrame"],
+[data-testid="stTable"] {
+    background-color: #151E33;
+    border-radius: 10px;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab"] {
+    color: #B9C4DA;
+}
+
+.stTabs [aria-selected="true"] {
+    color: #C4B5FD !important;
+    border-bottom-color: #8B5CF6 !important;
+}
+
+/* Dividers */
+hr {
+    border-color: #303B59;
+}
+
+/* Links */
+a {
+    color: #A78BFA !important;
+}
+
+/* Progress bars */
+.stProgress > div > div > div > div {
+    background: linear-gradient(90deg, #7C3AED, #38BDF8);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0B1120;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #51417E;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #8B5CF6;
+}
+
+/* Smooth transitions */
+[data-testid="stVerticalBlockBorderWrapper"],
+[data-testid="stMetric"] {
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-testid="stMetric"]:hover {
+    border-color: #8060CF;
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.12);
+}
+
+/* Remove white Streamlit header */
+[data-testid="stHeader"] {
+    background: #0B1120 !important;
+}
+
+/* Make toolbar transparent */
+[data-testid="stToolbar"] {
+    background: transparent !important;
+}
+
+/* Hide the white decoration above the app */
+[data-testid="stDecoration"] {
+    background: transparent !important;
+}
+
+/* Dark top area */
+header {
+    background: #0B1120 !important;
+}
+
+/* Deploy and menu controls */
+[data-testid="stHeader"] button {
+    color: #F8FAFC !important;
+}
+
+.brand-container {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    padding: 12px 5px 26px 5px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #30294F;
+}
+
+.brand-logo {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #9333EA, #5B4BDB, #2563EB);
+    border: 1px solid rgba(196, 181, 253, 0.4);
+    border-radius: 16px;
+    box-shadow: 0 5px 22px rgba(124, 58, 237, 0.35);
+}
+
+.brand-text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.brand-name {
+    color: #FFFFFF !important;
+    font-size: 23px;
+    font-weight: 800;
+    letter-spacing: -0.7px;
+    line-height: 1.2;
+}
+
+.brand-name span {
+    color: #A78BFA;
+}
+
+.brand-subtitle {
+    color: #A5A4C5 !important;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    line-height: 1.4;
+}
+
+/* =================================
+   PREMIUM SIDEBAR NAVIGATION
+================================= */
+
+/* Navigation container */
+[data-testid="stSidebar"] div[role="radiogroup"] {
+    gap: 8px;
+}
+
+/* Each navigation item */
+[data-testid="stSidebar"] div[role="radiogroup"] label {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    border-radius: 10px !important;
+    padding: 10px 12px !important;
+    margin: 2px 0 !important;
+    transition: all 0.2s ease;
+}
+
+/* Hide radio circles */
+[data-testid="stSidebar"] div[role="radiogroup"] label > div:first-child {
+    display: none !important;
+}
+
+/* Navigation text */
+[data-testid="stSidebar"] div[role="radiogroup"] label p {
+    color: #C7C9E5 !important;
+    font-size: 14px !important;
+    font-weight: 550 !important;
+}
+
+/* Hover effect */
+[data-testid="stSidebar"] div[role="radiogroup"] label:hover {
+    background: #252044 !important;
+    border-color: #493779 !important;
+}
+
+/* Selected navigation item */
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) {
+    background: linear-gradient(
+        100deg,
+        #512A91,
+        #33245F
+    ) !important;
+    border: 1px solid #8855DC !important;
+    box-shadow: 0 3px 14px rgba(124, 58, 237, 0.2);
+}
+
+/* Selected navigation text */
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) p {
+    color: #FFFFFF !important;
+    font-weight: 700 !important;
+}
+/* Compact sidebar navigation */
+[data-testid="stSidebar"] [role="radiogroup"] label > div:first-child {
+    display: none !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label {
+    padding: 5px 10px !important;
+    margin: 2px 0 !important;
+    min-height: 38px !important;
+    border-radius: 9px !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label p {
+    color: #C7C9E5 !important;
+    font-size: 14px !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label:has(input:checked) {
+    background: #422477 !important;
+    border: 1px solid #8855DC !important;
+}
+
+/* Button-based sidebar navigation */
+[data-testid="stSidebar"] .stButton > button {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    color: #D8D9F0 !important;
+    text-align: left !important;
+    border-radius: 10px !important;
+    padding: 10px 14px !important;
+    min-height: 42px !important;
+    font-size: 14px !important;
+    font-weight: 550 !important;
+    box-shadow: none !important;
+}
+
+/* Hover */
+[data-testid="stSidebar"] .stButton > button:hover {
+    background: #292044 !important;
+    border-color: #574184 !important;
+    color: #FFFFFF !important;
+}
+
+/* Active button */
+[data-testid="stSidebar"] .stButton > button[kind="primary"] {
+    background: linear-gradient(100deg, #512A91, #33245F) !important;
+    border: 1px solid #8855DC !important;
+    color: #FFFFFF !important;
+    box-shadow: 0 3px 14px rgba(124, 58, 237, 0.2) !important;
+}
+/* FINAL SIDEBAR POLISH */
+
+[data-testid="stSidebar"] .stButton > button {
+    border: 1px solid transparent !important;
+    background: transparent !important;
+    color: #D8D9F0 !important;
+    border-radius: 9px !important;
+    text-align: left !important;
+    padding: 8px 12px !important;
+    min-height: 40px !important;
+    box-shadow: none !important;
+}
+
+[data-testid="stSidebar"] .stButton > button:hover {
+    background: #252044 !important;
+    border-color: #493779 !important;
+}
+
+[data-testid="stSidebar"] .stButton > button[kind="primary"] {
+    background: linear-gradient(100deg, #512A91, #33245F) !important;
+    border: 1px solid #8855DC !important;
+    color: white !important;
+}
+
+/* Recommendation alert */
+[data-testid="stAlert"] {
+    background: #252044 !important;
+    border: 1px solid #60449A !important;
+    border-radius: 10px !important;
+}
+
+[data-testid="stAlert"] p,
+[data-testid="stAlert"] div {
+    color: #F1ECFF !important;
+}
+
+/* =================================
+   DARK THEME FORM IMPROVEMENTS
+================================= */
+
+/* Form labels */
+[data-testid="stWidgetLabel"] p {
+    color: #E5DDFB !important;
+    font-weight: 600 !important;
+}
+
+/* Text inputs and text areas */
+[data-testid="stTextInput"] input,
+[data-testid="stTextArea"] textarea {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #6550A5 !important;
+    border-radius: 9px !important;
+}
+
+/* Select boxes */
+[data-testid="stSelectbox"] div[data-baseweb="select"] > div {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border-color: #6550A5 !important;
+}
+
+/* Number inputs */
+[data-testid="stNumberInput"] input {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border-color: #6550A5 !important;
+}
+
+/* Placeholder text */
+input::placeholder,
+textarea::placeholder {
+    color: #9BA5BD !important;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(100deg, #7040D9, #923CE8) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A879FF !important;
+    border-radius: 9px !important;
+    font-weight: 600 !important;
+}
+
+/* FIX DROPDOWN SELECTED TEXT VISIBILITY */
+
+[data-testid="stSelectbox"] [data-baseweb="select"] {
+    background-color: #182139 !important;
+    border: 1px solid #8060D8 !important;
+    border-radius: 9px !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] div[class*="singleValue"],
+[data-testid="stSelectbox"] [data-baseweb="select"] div[class*="SingleValue"] {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] input {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    caret-color: #FFFFFF !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] svg {
+    fill: #FFFFFF !important;
+}
+/* Fix all button text visibility */
+.stButton > button,
+.stButton > button p {
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+/* Button appearance */
+.stButton > button {
+    background: linear-gradient(90deg, #7040D9, #923CE8) !important;
+    border: 1px solid #A879FF !important;
+}
+
+/* Force dark styling on Streamlit dropdown */
+div[data-testid="stSelectbox"] div[data-baseweb="select"],
+div[data-testid="stSelectbox"] div[role="combobox"] {
+    background-color: #182139 !important;
+    color: #FFFFFF !important;
+}
+
+div[data-testid="stSelectbox"] div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+
+div[data-testid="stSelectbox"] svg {
+    fill: #FFFFFF !important;
+}
+
+/* Knowledge Level dropdown - readable styling */
+div[data-testid="stSelectbox"] div[data-baseweb="select"] {
+    background-color: #FFFFFF !important;
+    border: 1px solid #8060D8 !important;
+    border-radius: 8px !important;
+}
+
+div[data-testid="stSelectbox"] div[data-baseweb="select"] * {
+    color: #172033 !important;
+}
+
+div[data-testid="stSelectbox"] input {
+    color: #172033 !important;
+    -webkit-text-fill-color: #172033 !important;
+}
+
+/* Dropdown options */
+ul[role="listbox"] li {
+    background-color: #FFFFFF !important;
+    color: #172033 !important;
+}
+/* Learning Path - Professional Controls */
+
+.stButton > button {
+    background: linear-gradient(135deg, #7C3AED, #9333EA) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    font-weight: 700 !important;
+    min-height: 44px;
+}
+
+.stButton > button:hover {
+    background: linear-gradient(135deg, #6D28D9, #7E22CE) !important;
+    border: 1px solid #C4B5FD !important;
+}
+
+/* Dropdown styling */
+div[data-baseweb="select"] > div {
+    background-color: #19243B !important;
+    border: 1px solid #6551A8 !important;
+    color: #FFFFFF !important;
+}
+
+div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+/* ===== PREMIUM 10/10 LEARNING COACH THEME ===== */
+
+/* Main background */
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #0B1020,
+        #10172A,
+        #11182B
+    ) !important;
+    color: #F8FAFC !important;
+}
+
+/* Main headings */
+h1, h2, h3 {
+    color: #F8FAFC !important;
+    font-weight: 750 !important;
+    letter-spacing: -0.5px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(
+        180deg,
+        #111329,
+        #191532
+    ) !important;
+    border-right: 1px solid #292345;
+}
+
+/* Cards */
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    background: #151D32;
+    border: 1px solid #303B59;
+    border-radius: 16px;
+}
+
+/* Text inputs */
+.stTextInput input,
+.stTextArea textarea,
+.stNumberInput input {
+    background: #19243B !important;
+    color: #FFFFFF !important;
+    border: 1px solid #6551A8 !important;
+    border-radius: 10px !important;
+}
+
+/* Labels */
+.stTextInput label,
+.stTextArea label,
+.stNumberInput label,
+.stSelectbox label {
+    color: #DCE3F5 !important;
+    font-weight: 600 !important;
+}
+
+/* Buttons */
+.stButton > button,
+.stFormSubmitButton > button {
+    background: linear-gradient(
+        135deg,
+        #7C3AED,
+        #9333EA
+    ) !important;
+    color: white !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 11px !important;
+    font-weight: 700 !important;
+    min-height: 44px !important;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover,
+.stFormSubmitButton > button:hover {
+    background: linear-gradient(
+        135deg,
+        #9333EA,
+        #6D28D9
+    ) !important;
+    box-shadow: 0 0 18px rgba(139,92,246,0.35);
+    transform: translateY(-1px);
+}
+
+/* Dropdown */
+div[data-baseweb="select"] > div {
+    background: #19243B !important;
+    border: 1px solid #6551A8 !important;
+    border-radius: 10px !important;
+}
+
+div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+
+/* Progress bars */
+.stProgress > div > div > div {
+    background: linear-gradient(
+        90deg,
+        #7C3AED,
+        #A78BFA
+    ) !important;
+}
+
+/* Dividers */
+hr {
+    border-color: #29334D !important;
+}
+
+/* =====================================
+   PREMIUM INLINE CODE HIGHLIGHTS
+   ===================================== */
+
+.stMarkdown p code,
+.stMarkdown li code,
+.stMarkdown h1 code,
+.stMarkdown h2 code,
+.stMarkdown h3 code {
+    background: linear-gradient(
+        135deg,
+        #251B46,
+        #34205D
+    ) !important;
+
+    color: #D8B4FE !important;
+
+    border: 1px solid #8055D9 !important;
+    border-radius: 7px !important;
+
+    padding: 4px 9px !important;
+
+    font-family: "Consolas", monospace !important;
+    font-size: 0.92em !important;
+    font-weight: 650 !important;
+
+    box-shadow:
+        0 0 8px rgba(139, 92, 246, 0.16);
+
+    transition: all 0.2s ease;
+}
+
+/* Subtle hover effect */
+
+.stMarkdown p code:hover,
+.stMarkdown li code:hover {
+    background: #493078 !important;
+    border-color: #C4B5FD !important;
+
+    box-shadow:
+        0 0 12px rgba(167, 139, 250, 0.35);
+}
+
+/* =====================================
+   DAY-WISE LEARNING SCHEDULE
+   ===================================== */
+
+.stMarkdown h2 {
+    color: #C4B5FD !important;
+    font-size: 27px !important;
+    font-weight: 800 !important;
+    padding: 14px 0 10px 0 !important;
+    border-bottom: 1px solid rgba(167, 139, 250, 0.25);
+    margin-top: 28px !important;
+}
+
+.stMarkdown h3 {
+    color: #E9D5FF !important;
+    font-size: 21px !important;
+    font-weight: 700 !important;
+    margin-top: 20px !important;
+}
+
+.stMarkdown ul {
+    padding-left: 25px !important;
+}
+
+.stMarkdown li {
+    color: #E2E8F0 !important;
+    line-height: 1.85 !important;
+    margin-bottom: 5px !important;
+}
+
+.stMarkdown hr {
+    border-color: rgba(167, 139, 250, 0.25) !important;
+}
+
+/* =====================================
+   PREMIUM LEARNING CONTENT
+   ===================================== */
+
+/* Learning schedule section headings */
+.stMarkdown h3 {
+    background: linear-gradient(
+        135deg,
+        rgba(124, 58, 237, 0.16),
+        rgba(147, 51, 234, 0.06)
+    );
+
+    border-left: 4px solid #A78BFA;
+    border-radius: 8px;
+
+    padding: 12px 16px !important;
+    margin-top: 24px !important;
+
+    color: #DDD6FE !important;
+}
+
+/* Learning content */
+.stMarkdown li {
+    color: #E2E8F0 !important;
+    line-height: 1.9 !important;
+    padding-left: 4px;
+}
+
+/* Strong text labels */
+.stMarkdown strong {
+    color: #C4B5FD !important;
+    font-weight: 750 !important;
+}
+
+/* Horizontal separators */
+.stMarkdown hr {
+    border: none !important;
+    border-top: 1px solid rgba(167, 139, 250, 0.25) !important;
+    margin: 28px 0 !important;
+}
+
+/* =====================================
+   PREMIUM DASHBOARD STATISTIC CARDS
+   ===================================== */
+
+[data-testid="stMetric"] {
+    background: linear-gradient(
+        145deg,
+        #19213A,
+        #211A42
+    ) !important;
+
+    border: 1px solid #493477 !important;
+    border-radius: 16px !important;
+
+    padding: 22px 20px !important;
+
+    box-shadow:
+        0 5px 18px rgba(0, 0, 0, 0.20);
+
+    transition: all 0.25s ease;
+}
+
+/* Hover effect */
+[data-testid="stMetric"]:hover {
+    transform: translateY(-4px);
+
+    border-color: #A78BFA !important;
+
+    box-shadow:
+        0 8px 25px rgba(124, 58, 237, 0.22);
+}
+
+/* Metric labels */
+[data-testid="stMetricLabel"] {
+    color: #C4B5FD !important;
+    font-weight: 650 !important;
+}
+
+/* Metric values */
+[data-testid="stMetricValue"] {
+    color: #FFFFFF !important;
+    font-size: 2.2rem !important;
+    font-weight: 800 !important;
+}
+
+/* Metric icons and delta text */
+[data-testid="stMetricDelta"] {
+    color: #A78BFA !important;
+}
+
+/* CONTENT LIBRARY RESOURCE BUTTONS */
+
+[data-testid="stLinkButton"] a {
+    background: linear-gradient(135deg, #7C3AED, #5B35B5) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    font-weight: 650 !important;
+    box-shadow: 0 4px 14px rgba(124, 58, 237, 0.22) !important;
+    transition: all 0.2s ease !important;
+}
+
+[data-testid="stLinkButton"] a:hover {
+    background: linear-gradient(135deg, #8B5CF6, #6D28D9) !important;
+    color: #FFFFFF !important;
+    border-color: #C4B5FD !important;
+    transform: translateY(-2px);
+}
+/* Lesson Progress dropdown selected text */
+div[data-testid="stSelectbox"]:has(label) div[data-baseweb="select"] span {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+}
+
+
+</style></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stHeading" data-testid="stHeading"><div data-testid="stMarkdownContainer" class="st-emotion-cache-bzjstw e12uj6qz0"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h1 id="practice-quiz" aria-labelledby=":rd:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rd:">📝 Practice Quiz</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#practice-quiz" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h1></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-101v7ze e12uj6qz0" data-testid="stCaptionContainer"><p>Test your knowledge and improve with Gemini AI.</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div direction="column" overflow="visible" height="auto" class="stVerticalBlock st-emotion-cache-10b9jwp e1a2occc3" data-testid="stVerticalBlock" data-test-wrap="false" data-test-scroll-behavior="normal"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stHeading" data-testid="stHeading"><div data-testid="stMarkdownContainer" class="st-emotion-cache-bzjstw e12uj6qz0"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="create-your-quiz" aria-labelledby=":r1p:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":r1p:">✨ Create Your Quiz</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#create-your-quiz" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-101v7ze e12uj6qz0" data-testid="stCaptionContainer"><p>Choose your subject, topic, and difficulty level.</p></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div class="stForm st-emotion-cache-17corqe evzffe01" data-testid="stForm" overflow="visible"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stTextInput st-emotion-cache-79elbk e1bh1cux0" data-testid="stTextInput"><label data-testid="stWidgetLabel" for=":r1q:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Subject</p></div></span></label><div class="react-aria-TextField" data-rac=""><div data-testid="stTextInputRootElement" class="st-emotion-cache-1o8dw4 e1bh1cux2"><input type="text" autocomplete="" placeholder="e.g. Python Programming" tabindex="0" id=":r1q:" aria-label="Subject" data-testid="stTextInputField" class="st-emotion-cache-18tm0h1 e1bh1cux3" data-rac="" value=""><div class="st-emotion-cache-jma0kd e1bh1cux5"></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stTextInput st-emotion-cache-79elbk e1bh1cux0" data-testid="stTextInput"><label data-testid="stWidgetLabel" for=":r20:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Topic</p></div></span></label><div class="react-aria-TextField" data-rac=""><div data-testid="stTextInputRootElement" class="st-emotion-cache-1o8dw4 e1bh1cux2"><input type="text" autocomplete="" placeholder="e.g. Python Variables" tabindex="0" id=":r20:" aria-label="Topic" data-testid="stTextInputField" class="st-emotion-cache-18tm0h1 e1bh1cux3" data-rac="" value=""><div class="st-emotion-cache-jma0kd e1bh1cux5"></div></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div direction="row" overflow="visible" height="auto" class="stHorizontalBlock st-emotion-cache-1a7w0so e1a2occc3" data-testid="stHorizontalBlock" data-test-wrap="true" data-test-scroll-behavior="normal"><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-key-quiz_level_radio st-emotion-cache-zh2fnc e1a2occc1" data-testid="stElementContainer" data-stale="false" width="fit-content" height="auto" overflow="visible"><div class="stRadio" data-testid="stRadio"><label data-testid="stWidgetLabel" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Knowledge Level</p></div></span></label><div data-testid="stRadioGroup" class="st-emotion-cache-su8zo5 e1dm8mpf0" data-rac="" aria-label="Knowledge Level" role="radiogroup" aria-orientation="horizontal" id="react-aria6751853368-:r26:" data-orientation="horizontal"><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac="" data-selected="true"><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac="" data-selected="true"><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="0" type="radio" name="react-aria6751853368-:r2b:" value="0" checked="" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-b41df e1dm8mpf4"><div class="st-emotion-cache-16jqfj2 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Beginner</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r2b:" value="1" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Intermediate</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r2b:" value="2" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Advanced</p></div></div></label></div></div></div></div></div></div><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-key-number_of_questions_radio st-emotion-cache-zh2fnc e1a2occc1" data-testid="stElementContainer" data-stale="false" width="fit-content" height="auto" overflow="visible"><div class="stRadio" data-testid="stRadio"><label data-testid="stWidgetLabel" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Number of Questions</p></div></span></label><div data-testid="stRadioGroup" class="st-emotion-cache-su8zo5 e1dm8mpf0" data-rac="" aria-label="Number of Questions" role="radiogroup" aria-orientation="horizontal" id="react-aria6751853368-:r2f:" data-orientation="horizontal"><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac="" data-selected="true"><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac="" data-selected="true"><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="0" type="radio" name="react-aria6751853368-:r2k:" value="0" checked="" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-b41df e1dm8mpf4"><div class="st-emotion-cache-16jqfj2 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>5</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r2k:" value="1" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>10</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r2k:" value="2" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>15</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r2k:" value="3" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>20</p></div></div></label></div></div></div></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><style>
+div[data-testid="stSelectbox"] div[data-baseweb="select"] span {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+div[data-testid="stSelectbox"] div[data-baseweb="select"] > div {
+    background-color: #1B2540 !important;
+}
+
+div[data-baseweb="popover"] li {
+    color: #FFFFFF !important;
+}
+</style></div></div></div></div><div class="stElementContainer element-container st-key-FormSubmitter-quiz_generation_form---Generate-Quiz st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="st-emotion-cache-k008qs evzffe00"><div class="stFormSubmitButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stFormSubmitButton"><button kind="primaryFormSubmit" data-testid="stBaseButton-primaryFormSubmit" class="st-emotion-cache-1e6opsz e1w3uk7w6"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>✨ Generate Quiz</p></div></span></span></div></button></div></div></div></div></div></div></div></div></div></div><div data-testid="stAppIframeResizerAnchor" data-iframe-height="true" class="st-emotion-cache-1dumvfu e87roqt10"></div></main></div></div></div></div></div>
+  
+
+<div data-react-aria-top-layer="true" data-st-overlay-root="true" data-testid="portal" id="portal" class="st-emotion-cache-boztmw egah9gy0"></div><div data-react-aria-top-layer="true" data-st-overlay-root="true" id="stFloatingOverlayPortal"></div></body></html>

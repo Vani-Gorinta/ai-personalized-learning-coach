@@ -1,0 +1,1429 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:8501/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;%F0%9F%A7%A0&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="preload" href="http://localhost:8501/static/media/SourceSansVF-Upright.ttf.BsWL4Kly.woff2" as="font" type="font/woff2" crossorigin="">
+
+    <title>AI Learn | Personalized Learning Coach</title>
+
+    <!-- initialize window.prerenderReady to false and then set to true in React app when app is ready for indexing -->
+    <script>
+      window.prerenderReady = false
+    </script>
+    <script type="module" crossorigin="" src="./learning path_files/index.Dlja0TUX.js.download"></script>
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/rolldown-runtime.C0FnF6B9.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-is-prop-valid.esm.CuYlOKOk.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-styled.browser.esm.BlkDsJXZ.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/loglevel.isY9rJjs.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/react-dom.CbzydqoA.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/emotion-react.browser.esm.BYrexG3N.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/protobuf.B-gz2osh.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/opacities.BBavuN52.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/types.cZoyy9Y-.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isSymbol.CmW3dkoN.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/toString.tRXNBxtF.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isArrayLike.Crw2F5li.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_isIterateeCall.BUStsXAd.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/isArrayLikeObject.B3Zf3PTL.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/merge.Dv47mehx.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseFlatten.IOj0lc7G.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/last.DfjdtCRp.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/utils.4-V1Nt9d.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/UriUtil.Buqblitv.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCrossOriginAttribute.CohH4OEQ.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useEmotionTheme.5peYXGK6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/styled-components.BdEMXxou.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useFloatingOverlay.BgVSLB_x.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Tooltip.pZ0H0kkf.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.DaUKNU-6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.B_BqPfc4.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/lib.CMmWlZtt.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/space-separated-tokens.BqhiSyze.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ErrorElement.B3JXfGpT.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/preload-helper.BaNbYf_w.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/StreamlitMarkdown.Bazu52t_.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseIsEqual.sdZCjgvS.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseProperty.BV6HSwpm.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/_baseEach.PLhpSRgM.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/utils.DUTo-bFv.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/FlexContext.BVLhnEIa.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Icon.BjxRA3oA.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/DynamicIcon.CpHr1HJ2.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useDescription.C7H7s2zg.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Text.BGYNDAPw.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/shim.BbyJgaa_.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCollection.CioWCs5V.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useLabel.CMDB9Bko.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/LiveAnnouncer.CJitgdIC.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/NumberFormatter.CHYrjPj-.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useNumberFormatter.CF9pVEB6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ProgressBar.DD0W8Jz8.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/BaseButton.OzdXpw_T.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/FormClearHelper.Bf_L1jWh.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useTimeout.DgWF0Nme.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useResizeObserver.3kyCQ1g6.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/index.esm.B2Ayivoz.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Check.esm.C0_5iXfI.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/ContentCopy.esm.BgWmYHP7.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/Toolbar.BIGxuHA9.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useCopyToClipboard.CV8qDB_k.js">
+    <link rel="modulepreload" crossorigin="" href="http://localhost:8501/static/js/useRequiredContext.DBsQavvD.js">
+    <link rel="stylesheet" crossorigin="" href="./learning path_files/index.DzL0gylu.css">
+  <style data-emotion="st-emotion-cache-global" data-s=""></style><style data-emotion="st-emotion-cache" data-s=""></style><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Button.BNvfR8OZ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/rehype-raw.C0zIPPaY.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/hastscript.HMW3Cnwp.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/web-namespaces.BxZ_GhEx.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/remark-emoji.B0mKIVIF.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/lib.Dd69Svmo.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Metric.DMz1h4un.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/styled-components.JuRIuEWs.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabelHelpIconInline.DdQfVwea.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/formatNumber.CfJM5WTJ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/numbro.DQcaoYTv.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/sprintfjs.F03_KGhA.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/styled-components.BGit4FcC.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/linear.D5hxhwzn.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/defaultLocale.CNPGWpMu.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/init.ZlXS9mIS.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/string.6Z3wlNKv.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/value.BWwTSlkG.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/ordinal.BefGibR5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/time._HF-TomV.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/range.EplFIxc7.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/cubic.yzfkjm1T.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/threshold.eoi7MLsD.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/colors.Cg5Vh3br.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/treemap.BfjIY-m6.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/TextInput.BxDbpba5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Input.fxLfgd0d.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/requiredField.D-qdHmR1.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Autocomplete.kV4wwzw9.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useFormValidation.B2tszs_w.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useTextField.BYnsszFh.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useField.CRclxxMJ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useFormReset.CGu8nFbN.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/ErrorOutline.esm.CS4C5u_b.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Cancel.esm.DeTJ68K0.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabel.DZjDVnAx.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/WidgetLabelHelpIcon.BgW9s-G5.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useDebouncedCallback.DmVKnuOW.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useBasicWidgetState.QdjeajhU.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/InputInstructions.DhFz6BY9.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/inputUtils.CD44xxT-.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useUpdateUiValue.Bnm2do6r.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/TextArea.TYysap43.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useTextInputAutoExpand.bb8b_LpZ.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/Radio.CR-M-CaH.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/useSlot.66mDqY92.js"><link rel="modulepreload" as="script" crossorigin="" href="http://localhost:8501/static/js/NumberInput.CVHXW_KR.js"></head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"><div class="withScreencast" data-testid="stScreencast"><div class="stApp stAppEmbeddingId-to388qyc9bel streamlit-wide st-emotion-cache-smtb2k e1vju3fw0" data-testid="stApp" data-test-script-state="notRunning" data-test-connection-state="CONNECTED"><div class="stAppViewContainer appview-container st-emotion-cache-1yiq2ps e87roqt0" data-testid="stAppViewContainer" data-layout="wide"><a href="http://localhost:8501/#stMain" data-testid="stSkipToContent" class="st-emotion-cache-xh0dmh e87roqt1">Skip to main content</a><section class="stSidebar st-emotion-cache-1y2bhgf e15rayve0" data-testid="stSidebar" aria-label="Sidebar" data-collapsed="false" id="stSidebar" style="position: relative; user-select: auto; width: 300px; height: auto; box-sizing: border-box; flex-shrink: 0;"><div data-testid="stSidebarContent" class="st-emotion-cache-155jwzh e15rayve2"><div data-testid="stSidebarHeader" class="st-emotion-cache-10p9htt e15rayve4"><div data-testid="stLogoSpacer" class="st-emotion-cache-11ukie e15rayve9"></div><div data-testid="stSidebarCollapseButton" class="st-emotion-cache-saselw e15rayve10"><button kind="headerNoPadding" data-testid="stBaseButton-headerNoPadding" aria-label="Collapse sidebar" aria-expanded="true" aria-controls="stSidebar" class="st-emotion-cache-6buas8 e1w3uk7w15"><span color="rgba(248, 250, 252, 0.6)" class="st-emotion-cache-2x5h05 e1fmktau2"><span color="rgba(248, 250, 252, 0.6)" data-testid="stIconMaterial" aria-hidden="true" translate="no" class="st-emotion-cache-4006kx e1vmumty0">keyboard_double_arrow_left</span></span></button></div></div><div data-testid="stSidebarUserContent" class="st-emotion-cache-1r1cntt e15rayve1"><div class="st-emotion-cache-8atqhb e87roqt6"><div direction="column" height="auto" class="stVerticalBlock st-emotion-cache-1ndxyp5 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><div class="brand-container">
+    <div class="brand-logo">
+        
+        🧠
+    </div>
+    <div class="brand-text">
+        <div class="brand-name">AI Learn</div>
+        <div class="brand-subtitle">YOUR PERSONAL AI COACH</div>
+    </div>
+</div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-key-nav_Dashboard st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🏠  Dashboard</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Learning_Path st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="primary" data-testid="stBaseButton-primary" class="st-emotion-cache-1e6opsz e1w3uk7w1"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📚  Learning Path</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Lesson_Progress st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🎯  Lesson Progress</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Study_Time st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>⏱️  Study Time</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Practice_Quiz st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>✍️  Practice Quiz</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Content_Library st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📖  Content Library</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_AI_Tutor st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>🤖  AI Tutor</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Analytics st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>📊  Analytics</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-key-nav_Settings st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stButton"><button kind="secondary" data-testid="stBaseButton-secondary" class="st-emotion-cache-1lhp36m e1w3uk7w2"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1s9a12h e12uj6qz0" data-testid="stMarkdownContainer"><p>⚙️  Settings</p></div></span></span></div></button></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>⚡ <strong>Smart Mode</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>AI-powered learning</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>📈 <strong>Learning Streak</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><h2 style="color: rgb(167, 139, 250); margin-bottom: 0px;"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3">
+    1 day
+</span></h2></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>Keep learning every day!</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-swq74t e12uj6qz0" data-testid="stMarkdownContainer"><p>👋 <strong>Welcome back!</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-qcpaw3 e12uj6qz0" data-testid="stCaptionContainer"><p>Ready to learn?</p></div></div></div></div></div></div></div></div><div><div style="position: absolute; user-select: none; width: 8px; height: 100%; top: 0px; cursor: col-resize; right: -6px;"><div data-testid="stSidebarResizeHandle" class="st-emotion-cache-151n13i e15rayve3"></div></div></div></section><div class="st-emotion-cache-6px8kg e87roqt11"><header class="stAppHeader st-emotion-cache-1jj3fbf e149qiiz1" data-testid="stHeader"><div class="stAppToolbar st-emotion-cache-14vh5up e149qiiz2" data-testid="stToolbar"><div class="st-emotion-cache-1j22a0y e149qiiz4"><div class="st-emotion-cache-jma0kd e149qiiz5"></div><div class="st-emotion-cache-scp8yw e149qiiz6"><div class="stToolbarActions st-emotion-cache-1p1m4ay epm40z22" data-testid="stToolbarActions"></div><div class="stAppDeployButton" data-testid="stAppDeployButton"><button kind="header" data-testid="stBaseButton-header" class="st-emotion-cache-1x5n7op e1w3uk7w14"><div class="st-emotion-cache-1wbqy5l e19wr9s00"><span>Deploy</span></div></button></div><span id="MainMenu" class="stMainMenu st-emotion-cache-czk5ss el5zzf54" data-testid="stMainMenu"><button kind="headerNoPadding" data-testid="stMainMenuButton" aria-label="Main menu" aria-haspopup="menu" aria-expanded="false" class="st-emotion-cache-6buas8 e1w3uk7w15"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="e1fmktau1 st-emotion-cache-nsoqg8 ex0cdmw0"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></button></span></div></div></div></header><main id="stMain" tabindex="0" class="stMain st-emotion-cache-170etyg e87roqt2" data-testid="stMain"><div class="stMainBlockContainer block-container st-emotion-cache-lhe5w4 e87roqt5" data-testid="stMainBlockContainer"><div direction="column" height="auto" class="stVerticalBlock st-emotion-cache-1ndxyp5 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><style>
+
+/* ================================
+   COSMIC VIOLET AI THEME
+================================ */
+
+/* Main application */
+.stApp {
+    background: linear-gradient(135deg, #080D1B 0%, #10172A 55%, #11102B 100%);
+    color: #F8FAFC;
+}
+
+/* Main content */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    max-width: 1450px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #11132B 0%, #171433 100%);
+    border-right: 1px solid #29264D;
+}
+
+[data-testid="stSidebar"] > div:first-child {
+    padding-top: 1.5rem;
+}
+
+/* Sidebar text */
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] span {
+    color: #D8D9F0;
+}
+
+/* Branding */
+.brand {
+    font-size: 27px;
+    font-weight: 800;
+    color: #B69CFF;
+}
+
+.brand-subtitle {
+    font-size: 13px;
+    color: #A5A4C5;
+}
+
+/* Welcome section */
+.welcome-title {
+    font-size: 32px;
+    font-weight: 750;
+    color: #FFFFFF;
+}
+
+.welcome-subtitle {
+    color: #A5B4CF;
+    font-size: 16px;
+}
+
+.date-text {
+    text-align: right;
+    color: #A5B4CF;
+    font-size: 13px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    color: #F8FAFC !important;
+}
+
+/* Paragraphs and labels */
+.stMarkdown p,
+.stMarkdown li,
+.stMarkdown label {
+    color: #D5DCEF;
+}
+
+/* Cards and containers */
+[data-testid="stVerticalBlockBorderWrapper"] {
+    background: #151E33;
+    border: 1px solid #303B59;
+    border-radius: 14px;
+}
+
+/* Buttons */
+/* Premium Purple Buttons */
+.stButton > button,
+.stFormSubmitButton > button {
+    background: linear-gradient(135deg, #7C3AED, #9333EA) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    min-height: 44px !important;
+    font-weight: 700 !important;
+    width: 100% !important;
+    opacity: 1 !important;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover,
+.stFormSubmitButton > button:hover {
+    background: linear-gradient(135deg, #9333EA, #6D28D9) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #C4B5FD !important;
+    box-shadow: 0 0 18px rgba(139, 92, 246, 0.35);
+}
+
+/* Input fields */
+.stTextInput input,
+.stTextArea textarea,
+.stNumberInput input {
+    background-color: #111A2D !important;
+    color: #F8FAFC !important;
+    border: 1px solid #384665 !important;
+    border-radius: 9px !important;
+}
+
+.stSelectbox div[data-baseweb="select"] > div {
+    background-color: #111A2D;
+    color: #F8FAFC;
+    border-color: #384665;
+}
+
+/* Radio buttons and checkboxes */
+.stRadio label,
+.stCheckbox label {
+    color: #D5DCEF !important;
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+    background: #151E33;
+    border: 1px solid #303B59;
+    border-radius: 13px;
+    padding: 18px;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #A5B4CF !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #FFFFFF !important;
+}
+
+/* Alerts */
+.stAlert {
+    border-radius: 12px;
+}
+
+/* Dataframes and tables */
+[data-testid="stDataFrame"],
+[data-testid="stTable"] {
+    background-color: #151E33;
+    border-radius: 10px;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab"] {
+    color: #B9C4DA;
+}
+
+.stTabs [aria-selected="true"] {
+    color: #C4B5FD !important;
+    border-bottom-color: #8B5CF6 !important;
+}
+
+/* Dividers */
+hr {
+    border-color: #303B59;
+}
+
+/* Links */
+a {
+    color: #A78BFA !important;
+}
+
+/* Progress bars */
+.stProgress > div > div > div > div {
+    background: linear-gradient(90deg, #7C3AED, #38BDF8);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0B1120;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #51417E;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #8B5CF6;
+}
+
+/* Smooth transitions */
+[data-testid="stVerticalBlockBorderWrapper"],
+[data-testid="stMetric"] {
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-testid="stMetric"]:hover {
+    border-color: #8060CF;
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.12);
+}
+
+/* Remove white Streamlit header */
+[data-testid="stHeader"] {
+    background: #0B1120 !important;
+}
+
+/* Make toolbar transparent */
+[data-testid="stToolbar"] {
+    background: transparent !important;
+}
+
+/* Hide the white decoration above the app */
+[data-testid="stDecoration"] {
+    background: transparent !important;
+}
+
+/* Dark top area */
+header {
+    background: #0B1120 !important;
+}
+
+/* Deploy and menu controls */
+[data-testid="stHeader"] button {
+    color: #F8FAFC !important;
+}
+
+.brand-container {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    padding: 12px 5px 26px 5px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #30294F;
+}
+
+.brand-logo {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #9333EA, #5B4BDB, #2563EB);
+    border: 1px solid rgba(196, 181, 253, 0.4);
+    border-radius: 16px;
+    box-shadow: 0 5px 22px rgba(124, 58, 237, 0.35);
+}
+
+.brand-text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.brand-name {
+    color: #FFFFFF !important;
+    font-size: 23px;
+    font-weight: 800;
+    letter-spacing: -0.7px;
+    line-height: 1.2;
+}
+
+.brand-name span {
+    color: #A78BFA;
+}
+
+.brand-subtitle {
+    color: #A5A4C5 !important;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    line-height: 1.4;
+}
+
+/* =================================
+   PREMIUM SIDEBAR NAVIGATION
+================================= */
+
+/* Navigation container */
+[data-testid="stSidebar"] div[role="radiogroup"] {
+    gap: 8px;
+}
+
+/* Each navigation item */
+[data-testid="stSidebar"] div[role="radiogroup"] label {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    border-radius: 10px !important;
+    padding: 10px 12px !important;
+    margin: 2px 0 !important;
+    transition: all 0.2s ease;
+}
+
+/* Hide radio circles */
+[data-testid="stSidebar"] div[role="radiogroup"] label > div:first-child {
+    display: none !important;
+}
+
+/* Navigation text */
+[data-testid="stSidebar"] div[role="radiogroup"] label p {
+    color: #C7C9E5 !important;
+    font-size: 14px !important;
+    font-weight: 550 !important;
+}
+
+/* Hover effect */
+[data-testid="stSidebar"] div[role="radiogroup"] label:hover {
+    background: #252044 !important;
+    border-color: #493779 !important;
+}
+
+/* Selected navigation item */
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) {
+    background: linear-gradient(
+        100deg,
+        #512A91,
+        #33245F
+    ) !important;
+    border: 1px solid #8855DC !important;
+    box-shadow: 0 3px 14px rgba(124, 58, 237, 0.2);
+}
+
+/* Selected navigation text */
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) p {
+    color: #FFFFFF !important;
+    font-weight: 700 !important;
+}
+/* Compact sidebar navigation */
+[data-testid="stSidebar"] [role="radiogroup"] label > div:first-child {
+    display: none !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label {
+    padding: 5px 10px !important;
+    margin: 2px 0 !important;
+    min-height: 38px !important;
+    border-radius: 9px !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label p {
+    color: #C7C9E5 !important;
+    font-size: 14px !important;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label:has(input:checked) {
+    background: #422477 !important;
+    border: 1px solid #8855DC !important;
+}
+
+/* Button-based sidebar navigation */
+[data-testid="stSidebar"] .stButton > button {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    color: #D8D9F0 !important;
+    text-align: left !important;
+    border-radius: 10px !important;
+    padding: 10px 14px !important;
+    min-height: 42px !important;
+    font-size: 14px !important;
+    font-weight: 550 !important;
+    box-shadow: none !important;
+}
+
+/* Hover */
+[data-testid="stSidebar"] .stButton > button:hover {
+    background: #292044 !important;
+    border-color: #574184 !important;
+    color: #FFFFFF !important;
+}
+
+/* Active button */
+[data-testid="stSidebar"] .stButton > button[kind="primary"] {
+    background: linear-gradient(100deg, #512A91, #33245F) !important;
+    border: 1px solid #8855DC !important;
+    color: #FFFFFF !important;
+    box-shadow: 0 3px 14px rgba(124, 58, 237, 0.2) !important;
+}
+/* FINAL SIDEBAR POLISH */
+
+[data-testid="stSidebar"] .stButton > button {
+    border: 1px solid transparent !important;
+    background: transparent !important;
+    color: #D8D9F0 !important;
+    border-radius: 9px !important;
+    text-align: left !important;
+    padding: 8px 12px !important;
+    min-height: 40px !important;
+    box-shadow: none !important;
+}
+
+[data-testid="stSidebar"] .stButton > button:hover {
+    background: #252044 !important;
+    border-color: #493779 !important;
+}
+
+[data-testid="stSidebar"] .stButton > button[kind="primary"] {
+    background: linear-gradient(100deg, #512A91, #33245F) !important;
+    border: 1px solid #8855DC !important;
+    color: white !important;
+}
+
+/* Recommendation alert */
+[data-testid="stAlert"] {
+    background: #252044 !important;
+    border: 1px solid #60449A !important;
+    border-radius: 10px !important;
+}
+
+[data-testid="stAlert"] p,
+[data-testid="stAlert"] div {
+    color: #F1ECFF !important;
+}
+
+/* =================================
+   DARK THEME FORM IMPROVEMENTS
+================================= */
+
+/* Form labels */
+[data-testid="stWidgetLabel"] p {
+    color: #E5DDFB !important;
+    font-weight: 600 !important;
+}
+
+/* Text inputs and text areas */
+[data-testid="stTextInput"] input,
+[data-testid="stTextArea"] textarea {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #6550A5 !important;
+    border-radius: 9px !important;
+}
+
+/* Select boxes */
+[data-testid="stSelectbox"] div[data-baseweb="select"] > div {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border-color: #6550A5 !important;
+}
+
+/* Number inputs */
+[data-testid="stNumberInput"] input {
+    background: #182139 !important;
+    color: #FFFFFF !important;
+    border-color: #6550A5 !important;
+}
+
+/* Placeholder text */
+input::placeholder,
+textarea::placeholder {
+    color: #9BA5BD !important;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(100deg, #7040D9, #923CE8) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A879FF !important;
+    border-radius: 9px !important;
+    font-weight: 600 !important;
+}
+
+/* FIX DROPDOWN SELECTED TEXT VISIBILITY */
+
+[data-testid="stSelectbox"] [data-baseweb="select"] {
+    background-color: #182139 !important;
+    border: 1px solid #8060D8 !important;
+    border-radius: 9px !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] div[class*="singleValue"],
+[data-testid="stSelectbox"] [data-baseweb="select"] div[class*="SingleValue"] {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] input {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    caret-color: #FFFFFF !important;
+}
+
+[data-testid="stSelectbox"] [data-baseweb="select"] svg {
+    fill: #FFFFFF !important;
+}
+/* Fix all button text visibility */
+.stButton > button,
+.stButton > button p {
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+}
+
+/* Button appearance */
+.stButton > button {
+    background: linear-gradient(90deg, #7040D9, #923CE8) !important;
+    border: 1px solid #A879FF !important;
+}
+
+/* Force dark styling on Streamlit dropdown */
+div[data-testid="stSelectbox"] div[data-baseweb="select"],
+div[data-testid="stSelectbox"] div[role="combobox"] {
+    background-color: #182139 !important;
+    color: #FFFFFF !important;
+}
+
+div[data-testid="stSelectbox"] div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+
+div[data-testid="stSelectbox"] svg {
+    fill: #FFFFFF !important;
+}
+
+/* Knowledge Level dropdown - readable styling */
+div[data-testid="stSelectbox"] div[data-baseweb="select"] {
+    background-color: #FFFFFF !important;
+    border: 1px solid #8060D8 !important;
+    border-radius: 8px !important;
+}
+
+div[data-testid="stSelectbox"] div[data-baseweb="select"] * {
+    color: #172033 !important;
+}
+
+div[data-testid="stSelectbox"] input {
+    color: #172033 !important;
+    -webkit-text-fill-color: #172033 !important;
+}
+
+/* Dropdown options */
+ul[role="listbox"] li {
+    background-color: #FFFFFF !important;
+    color: #172033 !important;
+}
+/* Learning Path - Professional Controls */
+
+.stButton > button {
+    background: linear-gradient(135deg, #7C3AED, #9333EA) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    font-weight: 700 !important;
+    min-height: 44px;
+}
+
+.stButton > button:hover {
+    background: linear-gradient(135deg, #6D28D9, #7E22CE) !important;
+    border: 1px solid #C4B5FD !important;
+}
+
+/* Dropdown styling */
+div[data-baseweb="select"] > div {
+    background-color: #19243B !important;
+    border: 1px solid #6551A8 !important;
+    color: #FFFFFF !important;
+}
+
+div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+/* ===== PREMIUM 10/10 LEARNING COACH THEME ===== */
+
+/* Main background */
+.stApp {
+    background: linear-gradient(
+        135deg,
+        #0B1020,
+        #10172A,
+        #11182B
+    ) !important;
+    color: #F8FAFC !important;
+}
+
+/* Main headings */
+h1, h2, h3 {
+    color: #F8FAFC !important;
+    font-weight: 750 !important;
+    letter-spacing: -0.5px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(
+        180deg,
+        #111329,
+        #191532
+    ) !important;
+    border-right: 1px solid #292345;
+}
+
+/* Cards */
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    background: #151D32;
+    border: 1px solid #303B59;
+    border-radius: 16px;
+}
+
+/* Text inputs */
+.stTextInput input,
+.stTextArea textarea,
+.stNumberInput input {
+    background: #19243B !important;
+    color: #FFFFFF !important;
+    border: 1px solid #6551A8 !important;
+    border-radius: 10px !important;
+}
+
+/* Labels */
+.stTextInput label,
+.stTextArea label,
+.stNumberInput label,
+.stSelectbox label {
+    color: #DCE3F5 !important;
+    font-weight: 600 !important;
+}
+
+/* Buttons */
+.stButton > button,
+.stFormSubmitButton > button {
+    background: linear-gradient(
+        135deg,
+        #7C3AED,
+        #9333EA
+    ) !important;
+    color: white !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 11px !important;
+    font-weight: 700 !important;
+    min-height: 44px !important;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover,
+.stFormSubmitButton > button:hover {
+    background: linear-gradient(
+        135deg,
+        #9333EA,
+        #6D28D9
+    ) !important;
+    box-shadow: 0 0 18px rgba(139,92,246,0.35);
+    transform: translateY(-1px);
+}
+
+/* Dropdown */
+div[data-baseweb="select"] > div {
+    background: #19243B !important;
+    border: 1px solid #6551A8 !important;
+    border-radius: 10px !important;
+}
+
+div[data-baseweb="select"] * {
+    color: #FFFFFF !important;
+}
+
+/* Progress bars */
+.stProgress > div > div > div {
+    background: linear-gradient(
+        90deg,
+        #7C3AED,
+        #A78BFA
+    ) !important;
+}
+
+/* Dividers */
+hr {
+    border-color: #29334D !important;
+}
+
+/* =====================================
+   PREMIUM INLINE CODE HIGHLIGHTS
+   ===================================== */
+
+.stMarkdown p code,
+.stMarkdown li code,
+.stMarkdown h1 code,
+.stMarkdown h2 code,
+.stMarkdown h3 code {
+    background: linear-gradient(
+        135deg,
+        #251B46,
+        #34205D
+    ) !important;
+
+    color: #D8B4FE !important;
+
+    border: 1px solid #8055D9 !important;
+    border-radius: 7px !important;
+
+    padding: 4px 9px !important;
+
+    font-family: "Consolas", monospace !important;
+    font-size: 0.92em !important;
+    font-weight: 650 !important;
+
+    box-shadow:
+        0 0 8px rgba(139, 92, 246, 0.16);
+
+    transition: all 0.2s ease;
+}
+
+/* Subtle hover effect */
+
+.stMarkdown p code:hover,
+.stMarkdown li code:hover {
+    background: #493078 !important;
+    border-color: #C4B5FD !important;
+
+    box-shadow:
+        0 0 12px rgba(167, 139, 250, 0.35);
+}
+
+/* =====================================
+   DAY-WISE LEARNING SCHEDULE
+   ===================================== */
+
+.stMarkdown h2 {
+    color: #C4B5FD !important;
+    font-size: 27px !important;
+    font-weight: 800 !important;
+    padding: 14px 0 10px 0 !important;
+    border-bottom: 1px solid rgba(167, 139, 250, 0.25);
+    margin-top: 28px !important;
+}
+
+.stMarkdown h3 {
+    color: #E9D5FF !important;
+    font-size: 21px !important;
+    font-weight: 700 !important;
+    margin-top: 20px !important;
+}
+
+.stMarkdown ul {
+    padding-left: 25px !important;
+}
+
+.stMarkdown li {
+    color: #E2E8F0 !important;
+    line-height: 1.85 !important;
+    margin-bottom: 5px !important;
+}
+
+.stMarkdown hr {
+    border-color: rgba(167, 139, 250, 0.25) !important;
+}
+
+/* =====================================
+   PREMIUM LEARNING CONTENT
+   ===================================== */
+
+/* Learning schedule section headings */
+.stMarkdown h3 {
+    background: linear-gradient(
+        135deg,
+        rgba(124, 58, 237, 0.16),
+        rgba(147, 51, 234, 0.06)
+    );
+
+    border-left: 4px solid #A78BFA;
+    border-radius: 8px;
+
+    padding: 12px 16px !important;
+    margin-top: 24px !important;
+
+    color: #DDD6FE !important;
+}
+
+/* Learning content */
+.stMarkdown li {
+    color: #E2E8F0 !important;
+    line-height: 1.9 !important;
+    padding-left: 4px;
+}
+
+/* Strong text labels */
+.stMarkdown strong {
+    color: #C4B5FD !important;
+    font-weight: 750 !important;
+}
+
+/* Horizontal separators */
+.stMarkdown hr {
+    border: none !important;
+    border-top: 1px solid rgba(167, 139, 250, 0.25) !important;
+    margin: 28px 0 !important;
+}
+
+/* =====================================
+   PREMIUM DASHBOARD STATISTIC CARDS
+   ===================================== */
+
+[data-testid="stMetric"] {
+    background: linear-gradient(
+        145deg,
+        #19213A,
+        #211A42
+    ) !important;
+
+    border: 1px solid #493477 !important;
+    border-radius: 16px !important;
+
+    padding: 22px 20px !important;
+
+    box-shadow:
+        0 5px 18px rgba(0, 0, 0, 0.20);
+
+    transition: all 0.25s ease;
+}
+
+/* Hover effect */
+[data-testid="stMetric"]:hover {
+    transform: translateY(-4px);
+
+    border-color: #A78BFA !important;
+
+    box-shadow:
+        0 8px 25px rgba(124, 58, 237, 0.22);
+}
+
+/* Metric labels */
+[data-testid="stMetricLabel"] {
+    color: #C4B5FD !important;
+    font-weight: 650 !important;
+}
+
+/* Metric values */
+[data-testid="stMetricValue"] {
+    color: #FFFFFF !important;
+    font-size: 2.2rem !important;
+    font-weight: 800 !important;
+}
+
+/* Metric icons and delta text */
+[data-testid="stMetricDelta"] {
+    color: #A78BFA !important;
+}
+
+/* CONTENT LIBRARY RESOURCE BUTTONS */
+
+[data-testid="stLinkButton"] a {
+    background: linear-gradient(135deg, #7C3AED, #5B35B5) !important;
+    color: #FFFFFF !important;
+    border: 1px solid #A78BFA !important;
+    border-radius: 10px !important;
+    font-weight: 650 !important;
+    box-shadow: 0 4px 14px rgba(124, 58, 237, 0.22) !important;
+    transition: all 0.2s ease !important;
+}
+
+[data-testid="stLinkButton"] a:hover {
+    background: linear-gradient(135deg, #8B5CF6, #6D28D9) !important;
+    color: #FFFFFF !important;
+    border-color: #C4B5FD !important;
+    transform: translateY(-2px);
+}
+/* Lesson Progress dropdown selected text */
+div[data-testid="stSelectbox"]:has(label) div[data-baseweb="select"] span {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+}
+
+
+</style></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stHeading" data-testid="stHeading"><div data-testid="stMarkdownContainer" class="st-emotion-cache-bzjstw e12uj6qz0"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h1 id="learning-path" aria-labelledby=":rd:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rd:">📖 Learning Path</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#learning-path" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h1></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Create your personalized learning schedule.</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div class="stForm st-emotion-cache-17corqe evzffe01" data-testid="stForm" overflow="visible"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stTextInput st-emotion-cache-79elbk e1bh1cux0" data-testid="stTextInput"><label data-testid="stWidgetLabel" for=":rt:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Subject</p></div></span></label><div class="react-aria-TextField" data-rac=""><div data-testid="stTextInputRootElement" class="st-emotion-cache-1o8dw4 e1bh1cux2"><input type="text" autocomplete="" placeholder="Example: Python Programming" tabindex="0" id=":rt:" aria-label="Subject" data-testid="stTextInputField" class="st-emotion-cache-18tm0h1 e1bh1cux3" data-rac="" value=""><div class="st-emotion-cache-jma0kd e1bh1cux5"></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-l4k65k e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="auto"><div class="stTextArea st-emotion-cache-ucrv5y e183v7wq0" data-testid="stTextArea"><label data-testid="stWidgetLabel" for=":r13:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Learning Goal</p></div></span></label><div data-testid="stTextAreaRootElement" class="st-emotion-cache-rg585l e183v7wq1"><textarea placeholder="What do you want to achieve?" aria-label="Learning Goal" id=":r13:" rows="3" class="st-emotion-cache-frcqw7 e183v7wq2"></textarea></div></div></div><div class="stElementContainer element-container st-emotion-cache-zh2fnc e1a2occc1" data-testid="stElementContainer" data-stale="false" width="fit-content" height="auto" overflow="visible"><div class="stRadio" data-testid="stRadio"><label data-testid="stWidgetLabel" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Knowledge Level</p></div></span></label><div data-testid="stRadioGroup" class="st-emotion-cache-su8zo5 e1dm8mpf0" data-rac="" aria-label="Knowledge Level" role="radiogroup" aria-orientation="horizontal" id="react-aria6751853368-:r14:" data-orientation="horizontal"><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac="" data-selected="true"><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac="" data-selected="true"><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="0" type="radio" name="react-aria6751853368-:r19:" value="0" checked="" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-b41df e1dm8mpf4"><div class="st-emotion-cache-16jqfj2 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Beginner</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r19:" value="1" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Intermediate</p></div></div></label></div><div class="st-emotion-cache-h3eoc5 e1dm8mpf1" data-rac=""><label data-testid="stRadioOption" data-react-aria-pressable="true" class="st-emotion-cache-h3imuh e1dm8mpf2" data-rac=""><span style="border: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"><input data-react-aria-pressable="true" tabindex="-1" type="radio" name="react-aria6751853368-:r19:" value="2" title=""></span><div class="st-emotion-cache-19nzcwv e1dm8mpf3"><div class="st-emotion-cache-zr7ys3 e1dm8mpf4"><div class="st-emotion-cache-1ng6qx7 e1dm8mpf5"></div></div><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Advanced</p></div></div></label></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stNumberInput" data-testid="stNumberInput"><label data-testid="stWidgetLabel" for=":r1d:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Target Duration (Days)</p></div></span></label><div class="react-aria-TextField" data-rac=""><div data-testid="stNumberInputContainer" class="st-emotion-cache-kw29d0 e1gm8nhx0"><input aria-label="Target Duration (Days)" type="number" placeholder="" tabindex="0" id=":r1d:" data-testid="stNumberInputField" step="1" min="1" max="365" class="st-emotion-cache-1cvpcuf e1gm8nhx3" data-rac="" value="7"><div class="st-emotion-cache-1k5fi8b e1gm8nhx1"><button type="button" data-testid="stNumberInputStepDown" aria-label="Decrement" tabindex="-1" class="st-emotion-cache-orqq8e e1gm8nhx2"><svg viewBox="0 0 8 8" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" color="inherit" class="e1fmktau1 st-emotion-cache-5sveu0 ex0cdmw0"><path d="M0 3v2h8V3H0z"></path></svg></button><button type="button" data-testid="stNumberInputStepUp" aria-label="Increment" tabindex="-1" class="st-emotion-cache-orqq8e e1gm8nhx2"><svg viewBox="0 0 8 8" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" color="inherit" class="e1fmktau1 st-emotion-cache-5sveu0 ex0cdmw0"><path d="M3 0v3H0v2h3v3h2V5h3V3H5V0H3z"></path></svg></button></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stNumberInput" data-testid="stNumberInput"><label data-testid="stWidgetLabel" for=":r1j:" class="st-emotion-cache-1qe8z17 eu1rstf0"><span aria-hidden="true"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>Daily Study Time (Minutes)</p></div></span></label><div class="react-aria-TextField" data-rac=""><div data-testid="stNumberInputContainer" class="st-emotion-cache-kw29d0 e1gm8nhx0"><input aria-label="Daily Study Time (Minutes)" type="number" placeholder="" tabindex="0" id=":r1j:" data-testid="stNumberInputField" step="1" min="10" max="600" class="st-emotion-cache-1cvpcuf e1gm8nhx3" data-rac="" value="45"><div class="st-emotion-cache-1k5fi8b e1gm8nhx1"><button type="button" data-testid="stNumberInputStepDown" aria-label="Decrement" tabindex="-1" class="st-emotion-cache-orqq8e e1gm8nhx2"><svg viewBox="0 0 8 8" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" color="inherit" class="e1fmktau1 st-emotion-cache-5sveu0 ex0cdmw0"><path d="M0 3v2h8V3H0z"></path></svg></button><button type="button" data-testid="stNumberInputStepUp" aria-label="Increment" tabindex="-1" class="st-emotion-cache-orqq8e e1gm8nhx2"><svg viewBox="0 0 8 8" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" color="inherit" class="e1fmktau1 st-emotion-cache-5sveu0 ex0cdmw0"><path d="M3 0v3H0v2h3v3h2V5h3V3H5V0H3z"></path></svg></button></div></div></div></div></div><div class="stElementContainer element-container st-key-FormSubmitter-learning_setup_form---Generate-Study-Plan st-emotion-cache-zh2fnc e1a2occc1" data-testid="stElementContainer" data-stale="false" width="fit-content" height="auto" overflow="visible"><div class="st-emotion-cache-k008qs evzffe00"><div class="stFormSubmitButton st-emotion-cache-8atqhb e1h367vj0" data-testid="stFormSubmitButton"><button kind="secondaryFormSubmit" data-testid="stBaseButton-secondaryFormSubmit" class="st-emotion-cache-48gnqk e1w3uk7w7"><div class="st-emotion-cache-1lads1q e1w3uk7w22"><span data-has-shortcut="false" class="st-emotion-cache-1kl7f1u e1w3uk7w23"><span style="display: contents;"><div class="st-emotion-cache-1ilf827 e12uj6qz0" data-testid="stMarkdownContainer"><p>✨ Generate Study Plan</p></div></span></span></div></button></div></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stHeading" data-testid="stHeading"><div data-testid="stMarkdownContainer" class="st-emotion-cache-bzjstw e12uj6qz0"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="your-personalized-study-plan" aria-labelledby=":r1:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":r1:">Your Personalized Study Plan</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#your-personalized-study-plan" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><div style="background: linear-gradient(135deg, rgb(32, 26, 67), rgb(48, 32, 92)); padding: 22px; border-radius: 15px; border: 1px solid rgb(104, 70, 165); margin-bottom: 20px;">
+    <div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="study-plan-overview" aria-labelledby=":re:" style="color: rgb(255, 255, 255); margin-top: 0px; margin-bottom: 20px;"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":re:">
+        📚 Study Plan Overview
+    </span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#study-plan-overview" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+</div></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div direction="row" overflow="visible" height="auto" class="stHorizontalBlock st-emotion-cache-1a7w0so e1a2occc3" data-testid="stHorizontalBlock" data-test-wrap="true" data-test-scroll-behavior="normal"><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>📘 Subject</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Java</p></div></div></div></div></div></div><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>🎯 Learning Goal</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>OOPs</p></div></div></div></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div data-testid="stLayoutWrapper" class="st-emotion-cache-18kf3ut e1a2occc5" width="100%" height="auto" overflow="visible"><div direction="row" overflow="visible" height="auto" class="stHorizontalBlock st-emotion-cache-1a7w0so e1a2occc3" data-testid="stHorizontalBlock" data-test-wrap="true" data-test-scroll-behavior="normal"><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>📊 Knowledge Level</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Intermediate</p></div></div></div></div></div></div><div class="stColumn st-emotion-cache-1m08dp2 e1a2occc2" data-testid="stColumn"><div direction="column" height="100%" class="stVerticalBlock st-emotion-cache-1bnbo98 e1a2occc3" data-testid="stVerticalBlock"><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>📅 Target Duration</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>8 days</p></div></div></div></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>⏱️ Daily Study Time</strong></p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>35 minutes per day</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="your-personalized-study-schedule" aria-labelledby=":rf:" style="color: rgb(185, 154, 255);"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rf:">
+    🗓️ Your Personalized Study Schedule
+</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#your-personalized-study-schedule" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Hello there! I'm your AI Personalized Learning Coach, and I'm excited to help you master OOPs in Java. This 8-day plan is designed to be practical, focused, and perfectly fit into your 35-minute daily study schedule.</p>
+<p>Let's dive in and unlock the power of Object-Oriented Programming!</p>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h2 id="java-oops-study-plan-8-days-to-mastery" aria-labelledby=":rg:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rg:"><strong>Java OOPs Study Plan: 8 Days to Mastery</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#java-oops-study-plan-8-days-to-mastery" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h2></div>
+<p><strong>Student Details:</strong></p>
+<ul>
+<li><strong>Subject:</strong> Java</li>
+<li><strong>Learning Goal:</strong> OOPs Concepts</li>
+<li><strong>Knowledge Level:</strong> Intermediate</li>
+<li><strong>Duration:</strong> 8 days</li>
+<li><strong>Daily Study Time:</strong> 35 minutes</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="important-notes-before-you-begin" aria-labelledby=":rh:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rh:"><strong>Important Notes Before You Begin:</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#important-notes-before-you-begin" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Consistency is Key:</strong> Stick to your 35 minutes each day. Even short, focused sessions are more effective than sporadic long ones.</li>
+<li><strong>Hands-on Practice:</strong> The exercises are crucial. Type out the code yourself, don't just read it. Experiment!</li>
+<li><strong>Tools:</strong> Have a Java Development Kit (JDK) and an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse ready to go. Even a simple text editor and command line will work.</li>
+<li><strong>Resources:</strong> Have a good online Java tutorial (e.g., Oracle Java Tutorials, GeeksforGeeks, Baeldung) handy for quick reference if you get stuck.</li>
+<li><strong>Questions:</strong> If you encounter difficulties, make a note and revisit them during the revision sessions or search for solutions online.</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-1-introduction-to-oop-classes-and-objects" aria-labelledby=":ri:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":ri:"><strong>Day 1: Introduction to OOP, Classes &amp; Objects</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-1-introduction-to-oop-classes-and-objects" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Understanding OOP Principles &amp; Creating Your First Class and Object</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the fundamental concept of Object-Oriented Programming (OOP).</li>
+<li>Differentiate between a Class and an Object.</li>
+<li>Learn to declare a basic Java class with attributes (fields) and behaviors (methods).</li>
+<li>Learn to create an object (instance) of a class.</li>
+<li>Access object attributes and call object methods.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read a concise explanation of "What is OOP?" and its four pillars (Encapsulation, Inheritance, Polymorphism, Abstraction) at a high level.</li>
+<li>Understand the analogy: Class as a blueprint, Object as a house built from the blueprint.</li>
+<li>Study the syntax for defining a simple class and creating an object.</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Create a Java class named <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code>.
+<ul>
+<li>Give it attributes: <code class="st-emotion-cache-155dgk4 ej556a80">String name</code>, <code class="st-emotion-cache-155dgk4 ej556a80">String breed</code>, <code class="st-emotion-cache-155dgk4 ej556a80">int age</code>.</li>
+<li>Give it a method: <code class="st-emotion-cache-155dgk4 ej556a80">void bark()</code> that prints "Woof!".</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create two <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> objects: <code class="st-emotion-cache-155dgk4 ej556a80">myDog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">yourDog</code>.</li>
+<li>Assign values to their attributes (e.g., <code class="st-emotion-cache-155dgk4 ej556a80">myDog.name = "Buddy"</code>).</li>
+<li>Call the <code class="st-emotion-cache-155dgk4 ej556a80">bark()</code> method for both objects.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What's the difference between a class and an object?</li>
+<li>Can you create an object without a class? Why or why not?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-2-constructors-and-the-this-keyword" aria-labelledby=":rj:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rj:"><strong>Day 2: Constructors and the <code class="st-emotion-cache-155dgk4 ej556a80">this</code> Keyword</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-2-constructors-and-the-this-keyword" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Initializing Objects with Constructors</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the purpose of a constructor.</li>
+<li>Learn to define a default (no-argument) constructor.</li>
+<li>Learn to define parameterized constructors to initialize object state upon creation.</li>
+<li>Understand and use the <code class="st-emotion-cache-155dgk4 ej556a80">this</code> keyword to refer to the current object's instance variables.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about constructors: what they are, when they are called, and the rules for defining them.</li>
+<li>Learn about the default constructor provided automatically if you don't define any.</li>
+<li>Understand how <code class="st-emotion-cache-155dgk4 ej556a80">this</code> keyword helps differentiate between instance variables and local parameters (especially in constructors).</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Modify your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> class from Day 1.
+<ul>
+<li>Add a default constructor that prints "A new dog is born!".</li>
+<li>Add a parameterized constructor: <code class="st-emotion-cache-155dgk4 ej556a80">public Dog(String name, String breed, int age)</code> that initializes all attributes.</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create a <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> object using the default constructor.</li>
+<li>Create another <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> object using the parameterized constructor (e.g., <code class="st-emotion-cache-155dgk4 ej556a80">Dog newDog = new Dog("Max", "Golden Retriever", 3);</code>).</li>
+<li>Print the details of the <code class="st-emotion-cache-155dgk4 ej556a80">newDog</code> to confirm initialization.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>When is a constructor called?</li>
+<li>Why is <code class="st-emotion-cache-155dgk4 ej556a80">this</code> keyword useful in a constructor?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-3-encapsulation-and-access-modifiers" aria-labelledby=":rk:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rk:"><strong>Day 3: Encapsulation and Access Modifiers</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-3-encapsulation-and-access-modifiers" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Protecting Your Data with Encapsulation</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the concept of Encapsulation (data hiding).</li>
+<li>Learn to use <code class="st-emotion-cache-155dgk4 ej556a80">private</code> access modifier for instance variables.</li>
+<li>Learn to create <code class="st-emotion-cache-155dgk4 ej556a80">public</code> getter (accessor) and setter (mutator) methods.</li>
+<li>Understand the benefits of encapsulation (flexibility, control over data).</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about Encapsulation as one of the four OOP pillars.</li>
+<li>Focus on <code class="st-emotion-cache-155dgk4 ej556a80">private</code> and <code class="st-emotion-cache-155dgk4 ej556a80">public</code> access modifiers.</li>
+<li>Understand the standard naming conventions for getters (<code class="st-emotion-cache-155dgk4 ej556a80">getVariableName()</code>) and setters (<code class="st-emotion-cache-155dgk4 ej556a80">setVariableName(newValue)</code>).</li>
+<li>Briefly understand the other access modifiers: <code class="st-emotion-cache-155dgk4 ej556a80">protected</code> and <code class="st-emotion-cache-155dgk4 ej556a80">default</code> (package-private).</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Modify your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> class.
+<ul>
+<li>Change all instance variables (<code class="st-emotion-cache-155dgk4 ej556a80">name</code>, <code class="st-emotion-cache-155dgk4 ej556a80">breed</code>, <code class="st-emotion-cache-155dgk4 ej556a80">age</code>) to <code class="st-emotion-cache-155dgk4 ej556a80">private</code>.</li>
+<li>Generate or manually write <code class="st-emotion-cache-155dgk4 ej556a80">public</code> getter methods for <code class="st-emotion-cache-155dgk4 ej556a80">name</code>, <code class="st-emotion-cache-155dgk4 ej556a80">breed</code>, and <code class="st-emotion-cache-155dgk4 ej556a80">age</code>.</li>
+<li>Generate or manually write <code class="st-emotion-cache-155dgk4 ej556a80">public</code> setter methods for <code class="st-emotion-cache-155dgk4 ej556a80">name</code>, <code class="st-emotion-cache-155dgk4 ej556a80">breed</code>, and <code class="st-emotion-cache-155dgk4 ej556a80">age</code>.</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Try to directly access <code class="st-emotion-cache-155dgk4 ej556a80">myDog.name = "Sparky";</code> (it should cause a compile-time error).</li>
+<li>Use the setter method: <code class="st-emotion-cache-155dgk4 ej556a80">myDog.setName("Sparky");</code>.</li>
+<li>Use the getter methods to retrieve and print <code class="st-emotion-cache-155dgk4 ej556a80">myDog.getName()</code>, <code class="st-emotion-cache-155dgk4 ej556a80">myDog.getBreed()</code>, <code class="st-emotion-cache-155dgk4 ej556a80">myDog.getAge()</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What problem does <code class="st-emotion-cache-155dgk4 ej556a80">private</code> solve?</li>
+<li>Why are getters and setters typically <code class="st-emotion-cache-155dgk4 ej556a80">public</code>?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-4-inheritance-basics-and-extends-keyword" aria-labelledby=":rl:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rl:"><strong>Day 4: Inheritance - Basics &amp; <code class="st-emotion-cache-155dgk4 ej556a80">extends</code> Keyword</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-4-inheritance-basics-and-extends-keyword" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Reusing Code with Inheritance</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the concept of Inheritance (is-a relationship).</li>
+<li>Learn to create a superclass (parent class) and a subclass (child class).</li>
+<li>Use the <code class="st-emotion-cache-155dgk4 ej556a80">extends</code> keyword to establish an inheritance relationship.</li>
+<li>Understand how subclasses inherit attributes and methods from their superclass.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about Inheritance: how it promotes code reusability and forms an "is-a" relationship (e.g., a Car <em>is a</em> Vehicle).</li>
+<li>Understand the <code class="st-emotion-cache-155dgk4 ej556a80">extends</code> keyword syntax.</li>
+<li>Learn what members are inherited and what aren't (private members are not directly accessible but exist).</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Create a new class <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>.
+<ul>
+<li>Attributes: <code class="st-emotion-cache-155dgk4 ej556a80">private String species</code>, <code class="st-emotion-cache-155dgk4 ej556a80">private int numberOfLegs</code>.</li>
+<li>Methods: <code class="st-emotion-cache-155dgk4 ej556a80">public void eat() { System.out.println("Animal is eating."); }</code>, <code class="st-emotion-cache-155dgk4 ej556a80">public String getSpecies()</code>, <code class="st-emotion-cache-155dgk4 ej556a80">public void setSpecies(String species)</code>.</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> Modify your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> class to extend <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>.
+<ul>
+<li>Remove <code class="st-emotion-cache-155dgk4 ej556a80">breed</code> and <code class="st-emotion-cache-155dgk4 ej556a80">age</code> for now (we'll add them back smart). <code class="st-emotion-cache-155dgk4 ej556a80">Dog extends Animal</code>.</li>
+<li>The <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> class should now implicitly have <code class="st-emotion-cache-155dgk4 ej556a80">species</code>, <code class="st-emotion-cache-155dgk4 ej556a80">numberOfLegs</code>, and the <code class="st-emotion-cache-155dgk4 ej556a80">eat()</code> method.</li>
+</ul>
+</li>
+<li><strong>Task 3:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create a <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> object.</li>
+<li>Set its <code class="st-emotion-cache-155dgk4 ej556a80">species</code> (using <code class="st-emotion-cache-155dgk4 ej556a80">setSpecies()</code>) and call its <code class="st-emotion-cache-155dgk4 ej556a80">eat()</code> method.</li>
+<li>Observe that <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> can use <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>'s methods.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What does the <code class="st-emotion-cache-155dgk4 ej556a80">extends</code> keyword do?</li>
+<li>If <code class="st-emotion-cache-155dgk4 ej556a80">Dog extends Animal</code>, can <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> objects access <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>'s <code class="st-emotion-cache-155dgk4 ej556a80">private</code> variables directly?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-5-inheritance-super-keyword-and-method-overriding" aria-labelledby=":rm:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rm:"><strong>Day 5: Inheritance - <code class="st-emotion-cache-155dgk4 ej556a80">super</code> Keyword &amp; Method Overriding</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-5-inheritance-super-keyword-and-method-overriding" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Enhancing Inherited Behavior</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand and use the <code class="st-emotion-cache-155dgk4 ej556a80">super</code> keyword to call the superclass's constructor.</li>
+<li>Understand and use the <code class="st-emotion-cache-155dgk4 ej556a80">super</code> keyword to call a superclass's method.</li>
+<li>Learn about Method Overriding: providing a specific implementation of a method that is already defined in the superclass.</li>
+<li>Use the <code class="st-emotion-cache-155dgk4 ej556a80">@Override</code> annotation for clarity and error checking.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about <code class="st-emotion-cache-155dgk4 ej556a80">super()</code> to call the parent constructor (must be the first statement in the subclass constructor).</li>
+<li>Read about <code class="st-emotion-cache-155dgk4 ej556a80">super.methodName()</code> to call the parent method.</li>
+<li>Focus on Method Overriding rules: same method signature (name, parameters, return type).</li>
+<li>Understand the importance of the <code class="st-emotion-cache-155dgk4 ej556a80">@Override</code> annotation.</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Enhance <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> classes.
+<ul>
+<li>In <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>, add a constructor: <code class="st-emotion-cache-155dgk4 ej556a80">public Animal(String species, int numberOfLegs)</code>.</li>
+<li>In <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>, add a <code class="st-emotion-cache-155dgk4 ej556a80">public void makeSound() { System.out.println("Animal makes a sound."); }</code>.</li>
+<li>In <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code>, add back <code class="st-emotion-cache-155dgk4 ej556a80">private String breed</code> and <code class="st-emotion-cache-155dgk4 ej556a80">private int age</code>.</li>
+<li>In <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code>, create a constructor <code class="st-emotion-cache-155dgk4 ej556a80">public Dog(String species, int numberOfLegs, String breed, int age)</code>.
+<ul>
+<li><strong>Crucially:</strong> Use <code class="st-emotion-cache-155dgk4 ej556a80">super(species, numberOfLegs);</code> as the first line.</li>
+<li>Initialize <code class="st-emotion-cache-155dgk4 ej556a80">this.breed</code> and <code class="st-emotion-cache-155dgk4 ej556a80">this.age</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> Override <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code> in <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code>.
+<ul>
+<li>Add <code class="st-emotion-cache-155dgk4 ej556a80">@Override</code> annotation: <code class="st-emotion-cache-155dgk4 ej556a80">public void makeSound() { System.out.println("Woof woof!"); }</code>.</li>
+</ul>
+</li>
+<li><strong>Task 3:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create a <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> object using the new constructor.</li>
+<li>Call <code class="st-emotion-cache-155dgk4 ej556a80">myDog.makeSound()</code>. What does it print?</li>
+<li>(Optional challenge) Call <code class="st-emotion-cache-155dgk4 ej556a80">super.makeSound()</code> inside <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code>'s overridden method to show both messages.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>When do you use <code class="st-emotion-cache-155dgk4 ej556a80">super()</code> in a constructor?</li>
+<li>What's the difference between Method Overloading (different parameters) and Method Overriding (same signature in subclass)?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-6-polymorphism" aria-labelledby=":rn:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rn:"><strong>Day 6: Polymorphism</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-6-polymorphism" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Objects Taking Many Forms</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the concept of Polymorphism (many forms).</li>
+<li>Learn about runtime polymorphism (dynamic method dispatch).</li>
+<li>Understand how an object of a subclass can be referred to by a superclass reference type (upcasting).</li>
+<li>See how overridden methods are called based on the <em>actual</em> object type at runtime.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about Polymorphism, emphasizing that it allows you to treat objects of different classes in a unified way if they share a common superclass or interface.</li>
+<li>Focus on upcasting (<code class="st-emotion-cache-155dgk4 ej556a80">Animal myDog = new Dog(...)</code>).</li>
+<li>Understand that when an overridden method is called through a superclass reference, the version in the <em>actual</em> object's class is executed.</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Create another class that extends <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code>, e.g., <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code>.
+<ul>
+<li>Give <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> a constructor <code class="st-emotion-cache-155dgk4 ej556a80">public Cat(String species, int numberOfLegs, String favoriteToy)</code>.</li>
+<li>Override the <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code> method in <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> to print "Meow!".</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create an array or <code class="st-emotion-cache-155dgk4 ej556a80">ArrayList</code> of <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> objects: <code class="st-emotion-cache-155dgk4 ej556a80">Animal[] animals = new Animal[3];</code>.</li>
+<li>Add a <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> object, a <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> object, and an <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> object (if <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> is not abstract) to this array.</li>
+<li>Loop through the array and call <code class="st-emotion-cache-155dgk4 ej556a80">animal.makeSound()</code> for each object. Observe that the correct <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code> (Dog's, Cat's, or Animal's) is called.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What is "dynamic method dispatch" in your own words?</li>
+<li>If you have <code class="st-emotion-cache-155dgk4 ej556a80">Animal a = new Dog();</code>, and both <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> have a <code class="st-emotion-cache-155dgk4 ej556a80">play()</code> method (with <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> overriding it), which <code class="st-emotion-cache-155dgk4 ej556a80">play()</code> method is called when you execute <code class="st-emotion-cache-155dgk4 ej556a80">a.play()</code>?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-7-abstraction-abstract-classes-and-methods" aria-labelledby=":ro:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":ro:"><strong>Day 7: Abstraction - Abstract Classes &amp; Methods</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-7-abstraction-abstract-classes-and-methods" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Hiding Complex Details with Abstraction</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the concept of Abstraction (showing essential details, hiding implementation).</li>
+<li>Learn to declare an <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> class and an <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> method.</li>
+<li>Understand the rules for abstract classes (cannot be instantiated, must be extended).</li>
+<li>Understand that abstract methods must be implemented by concrete subclasses.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about Abstraction, contrasting it with Encapsulation (Abstraction is about <em>what</em> to do, Encapsulation is about <em>how</em>).</li>
+<li>Understand the <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> keyword for classes and methods.</li>
+<li>Learn the rules: an abstract class can have concrete and abstract methods. A concrete class extending an abstract class <em>must</em> implement all abstract methods.</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Modify your <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> class.
+<ul>
+<li>Make <code class="st-emotion-cache-155dgk4 ej556a80">Animal</code> an <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> class: <code class="st-emotion-cache-155dgk4 ej556a80">public abstract class Animal { ... }</code>.</li>
+<li>Make <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code> an <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> method: <code class="st-emotion-cache-155dgk4 ej556a80">public abstract void makeSound();</code>. (Remove its body).</li>
+<li>(Optional) Add another abstract method: <code class="st-emotion-cache-155dgk4 ej556a80">public abstract void move();</code>.</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> Your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> classes should now have a compile error if they don't implement <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code>. Ensure they do (which they already should from Day 5/6).
+<ul>
+<li>If you added <code class="st-emotion-cache-155dgk4 ej556a80">move()</code>, implement <code class="st-emotion-cache-155dgk4 ej556a80">move()</code> in both <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> ("Dog runs.") and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> ("Cat pounces.").</li>
+</ul>
+</li>
+<li><strong>Task 3:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Try to create <code class="st-emotion-cache-155dgk4 ej556a80">Animal genericAnimal = new Animal(...);</code> (it should cause a compile-time error).</li>
+<li>Continue to create <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> objects, and call their <code class="st-emotion-cache-155dgk4 ej556a80">makeSound()</code> and <code class="st-emotion-cache-155dgk4 ej556a80">move()</code> methods.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What is the main purpose of an abstract class?</li>
+<li>Can an abstract class have a constructor? If so, when is it called?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="day-8-abstraction-interfaces-and-final-review" aria-labelledby=":rp:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rp:"><strong>Day 8: Abstraction - Interfaces &amp; Final Review</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#day-8-abstraction-interfaces-and-final-review" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Daily Topic:</strong> Achieving Full Abstraction with Interfaces</li>
+<li><strong>Learning Objectives:</strong>
+<ul>
+<li>Understand the concept of an Interface and its purpose.</li>
+<li>Learn to declare an <code class="st-emotion-cache-155dgk4 ej556a80">interface</code> using the <code class="st-emotion-cache-155dgk4 ej556a80">interface</code> keyword.</li>
+<li>Use the <code class="st-emotion-cache-155dgk4 ej556a80">implements</code> keyword to make a class adhere to an interface contract.</li>
+<li>Understand the key differences between abstract classes and interfaces.</li>
+</ul>
+</li>
+<li><strong>Study Activities (15 minutes):</strong>
+<ul>
+<li>Read about Interfaces: a contract that classes can agree to follow. All methods are implicitly <code class="st-emotion-cache-155dgk4 ej556a80">public abstract</code> (before Java 8).</li>
+<li>Understand the <code class="st-emotion-cache-155dgk4 ej556a80">implements</code> keyword. A class can implement multiple interfaces.</li>
+<li>Compare and contrast Abstract Classes vs. Interfaces (e.g., single inheritance vs. multiple inheritance of type). Briefly mention default and static methods in Java 8+ interfaces.</li>
+</ul>
+</li>
+<li><strong>Practice Exercises (15 minutes):</strong>
+<ul>
+<li><strong>Task 1:</strong> Create an interface named <code class="st-emotion-cache-155dgk4 ej556a80">Pet</code>.
+<ul>
+<li>Give it two methods: <code class="st-emotion-cache-155dgk4 ej556a80">public void play();</code> and <code class="st-emotion-cache-155dgk4 ej556a80">public void beFriendly();</code>.</li>
+</ul>
+</li>
+<li><strong>Task 2:</strong> Modify your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> classes to implement the <code class="st-emotion-cache-155dgk4 ej556a80">Pet</code> interface.
+<ul>
+<li><code class="st-emotion-cache-155dgk4 ej556a80">public class Dog extends Animal implements Pet { ... }</code></li>
+<li>Implement the <code class="st-emotion-cache-155dgk4 ej556a80">play()</code> and <code class="st-emotion-cache-155dgk4 ej556a80">beFriendly()</code> methods in both <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> with specific behaviors (e.g., "Dog fetches.", "Cat purrs.").</li>
+</ul>
+</li>
+<li><strong>Task 3:</strong> In your <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method:
+<ul>
+<li>Create an array or <code class="st-emotion-cache-155dgk4 ej556a80">ArrayList</code> of <code class="st-emotion-cache-155dgk4 ej556a80">Pet</code> objects.</li>
+<li>Add your <code class="st-emotion-cache-155dgk4 ej556a80">Dog</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Cat</code> objects to this array.</li>
+<li>Loop through the array and call <code class="st-emotion-cache-155dgk4 ej556a80">pet.play()</code> and <code class="st-emotion-cache-155dgk4 ej556a80">pet.beFriendly()</code> for each.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Estimated Time:</strong> 30 minutes</li>
+<li><strong>Quick Review/Self-Check (5 minutes):</strong>
+<ul>
+<li>What is the primary difference in how a class interacts with an abstract class versus an interface?</li>
+<li>When would you choose an interface over an abstract class?</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="final-assessment-self-evaluation-and-coding-challenge" aria-labelledby=":rq:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rq:"><strong>Final Assessment (Self-Evaluation &amp; Coding Challenge)</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#final-assessment-self-evaluation-and-coding-challenge" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<p>This assessment should take about <strong>30-40 minutes</strong>, so consider doing it on a separate day or dedicating a longer session.</p>
+<p><strong>Part 1: Conceptual Questions (10-15 minutes)</strong></p>
+<ol>
+<li>Explain the four pillars of OOP (Encapsulation, Inheritance, Polymorphism, Abstraction) in your own words, providing a simple example for each.</li>
+<li>What is the purpose of a constructor? Can a class have multiple constructors?</li>
+<li>Describe the <code class="st-emotion-cache-155dgk4 ej556a80">this</code> and <code class="st-emotion-cache-155dgk4 ej556a80">super</code> keywords. When would you use each?</li>
+<li>What are the key differences between an abstract class and an interface?</li>
+<li>When does Method Overloading occur, and when does Method Overriding occur?</li>
+</ol>
+<p><strong>Part 2: Coding Challenge (20-25 minutes)</strong></p>
+<p>Design a simple system for a "Shape Hierarchy".</p>
+<ol>
+<li><strong>Abstraction (Abstract Class):</strong>
+<ul>
+<li>Create an <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> class <code class="st-emotion-cache-155dgk4 ej556a80">Shape</code>.</li>
+<li>It should have a <code class="st-emotion-cache-155dgk4 ej556a80">private</code> attribute <code class="st-emotion-cache-155dgk4 ej556a80">String color</code>.</li>
+<li>It should have a parameterized constructor <code class="st-emotion-cache-155dgk4 ej556a80">public Shape(String color)</code>.</li>
+<li>It should have a <code class="st-emotion-cache-155dgk4 ej556a80">public String getColor()</code> method.</li>
+<li>It should have two <code class="st-emotion-cache-155dgk4 ej556a80">abstract</code> methods: <code class="st-emotion-cache-155dgk4 ej556a80">public abstract double getArea();</code> and <code class="st-emotion-cache-155dgk4 ej556a80">public abstract void draw();</code>.</li>
+</ul>
+</li>
+<li><strong>Inheritance &amp; Encapsulation:</strong>
+<ul>
+<li>Create two concrete classes: <code class="st-emotion-cache-155dgk4 ej556a80">Circle</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Rectangle</code>, both extending <code class="st-emotion-cache-155dgk4 ej556a80">Shape</code>.</li>
+<li><code class="st-emotion-cache-155dgk4 ej556a80">Circle</code> should have a <code class="st-emotion-cache-155dgk4 ej556a80">private double radius</code>.</li>
+<li><code class="st-emotion-cache-155dgk4 ej556a80">Rectangle</code> should have <code class="st-emotion-cache-155dgk4 ej556a80">private double length</code> and <code class="st-emotion-cache-155dgk4 ej556a80">private double width</code>.</li>
+<li>Implement appropriate parameterized constructors for both <code class="st-emotion-cache-155dgk4 ej556a80">Circle</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Rectangle</code> that call <code class="st-emotion-cache-155dgk4 ej556a80">super()</code> and initialize their unique attributes.</li>
+<li>Implement <code class="st-emotion-cache-155dgk4 ej556a80">getArea()</code> and <code class="st-emotion-cache-155dgk4 ej556a80">draw()</code> methods in both <code class="st-emotion-cache-155dgk4 ej556a80">Circle</code> and <code class="st-emotion-cache-155dgk4 ej556a80">Rectangle</code>.
+<ul>
+<li>For <code class="st-emotion-cache-155dgk4 ej556a80">Circle.getArea()</code>: <code class="st-emotion-cache-155dgk4 ej556a80">Math.PI * radius * radius</code>.</li>
+<li>For <code class="st-emotion-cache-155dgk4 ej556a80">Rectangle.getArea()</code>: <code class="st-emotion-cache-155dgk4 ej556a80">length * width</code>.</li>
+<li>For <code class="st-emotion-cache-155dgk4 ej556a80">draw()</code> methods, print a descriptive string (e.g., "Drawing a red Circle with radius 5.").</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Polymorphism:</strong>
+<ul>
+<li>In a <code class="st-emotion-cache-155dgk4 ej556a80">main</code> method, create an <code class="st-emotion-cache-155dgk4 ej556a80">ArrayList</code> of <code class="st-emotion-cache-155dgk4 ej556a80">Shape</code> objects.</li>
+<li>Add at least one <code class="st-emotion-cache-155dgk4 ej556a80">Circle</code> and one <code class="st-emotion-cache-155dgk4 ej556a80">Rectangle</code> to the list.</li>
+<li>Loop through the list, call <code class="st-emotion-cache-155dgk4 ej556a80">draw()</code> and print the <code class="st-emotion-cache-155dgk4 ej556a80">getArea()</code> for each shape.</li>
+<li>Observe how the correct <code class="st-emotion-cache-155dgk4 ej556a80">getArea()</code> and <code class="st-emotion-cache-155dgk4 ej556a80">draw()</code> methods are invoked based on the actual object type.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="tips-for-continued-success" aria-labelledby=":rr:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rr:"><strong>Tips for Continued Success:</strong></span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#tips-for-continued-success" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div>
+<ul>
+<li><strong>Practice Regularly:</strong> OOPs concepts solidify with repeated application.</li>
+<li><strong>Read Code:</strong> Look at open-source Java projects or well-structured examples online to see how OOP is applied in real-world scenarios.</li>
+<li><strong>Think OOP:</strong> Before writing new code, think about how you can model it using classes, objects, and relationships.</li>
+<li><strong>Build Small Projects:</strong> After this plan, try building a slightly larger project (e.g., a simple library management system, a basic game) applying all these OOP principles.</li>
+</ul>
+<p>You've got this! By consistently following this plan, you'll build a strong foundation in Java OOPs, which is essential for becoming a proficient Java developer. Good luck!</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><hr></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stHeading" data-testid="stHeading"><div data-testid="stMarkdownContainer" class="st-emotion-cache-bzjstw e12uj6qz0"><div data-testid="stHeadingWithActionElements" class="st-emotion-cache-npkxw2 e12uj6qz2"><h3 id="adaptive-learning-guidance" aria-labelledby=":rs:"><span data-heading-text="" class="st-emotion-cache-0 e12uj6qz3" id=":rs:">🧠 Adaptive Learning Guidance</span><span data-testid="stHeaderActionElements" class="st-emotion-cache-1i6bcf7 e12uj6qz4"><a href="http://localhost:8501/#adaptive-learning-guidance" aria-label="Link to heading" class="st-emotion-cache-12na9ak e12uj6qz1"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></span></h3></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>Topic to focus on:</strong> oops</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-3pwa5w e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stMarkdown" data-testid="stMarkdown"><div class="st-emotion-cache-k2h9z6 e1o1x6gp2"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p><strong>Latest Quiz Score:</strong> 100.0%</p></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stAlert" data-testid="stAlert"><div data-testid="stAlertContainer" class="stAlertContainer st-emotion-cache-sbgf9b ep9twe70" role="status"><div data-testid="stAlertContentInfo" class="st-emotion-cache-1n65kaj ep9twe71"><div class="st-emotion-cache-myfgde ee8gipb0"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Excellent! You scored 100.0% in oops. You can move to the next topic or try advanced-level questions.</p></div></div></div></div></div></div><div class="stElementContainer element-container st-emotion-cache-1vo6xi6 e1a2occc1" data-testid="stElementContainer" data-stale="false" width="100%" height="auto" overflow="visible"><div class="stAlert" data-testid="stAlert"><div data-testid="stAlertContainer" class="stAlertContainer st-emotion-cache-3a140l ep9twe70" role="status"><div data-testid="stAlertContentSuccess" class="st-emotion-cache-1n65kaj ep9twe71"><div class="st-emotion-cache-myfgde ee8gipb0"><div class="st-emotion-cache-bzjstw e12uj6qz0" data-testid="stMarkdownContainer"><p>Next Action: Move Forward</p></div></div></div></div></div></div></div></div><div data-testid="stAppIframeResizerAnchor" data-iframe-height="true" class="st-emotion-cache-1dumvfu e87roqt10"></div></main></div></div></div></div></div>
+  
+
+<div data-react-aria-top-layer="true" data-st-overlay-root="true" data-testid="portal" id="portal" class="st-emotion-cache-boztmw egah9gy0"></div><div data-react-aria-top-layer="true" data-st-overlay-root="true" id="stFloatingOverlayPortal"></div></body></html>
